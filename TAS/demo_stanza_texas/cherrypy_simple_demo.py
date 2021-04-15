@@ -6,6 +6,7 @@ import csv
 from collections import defaultdict
 from typing import DefaultDict, Text
 from typing_extensions import final
+import hashlib
 import cherrypy
 import texas as tx
 import stanza
@@ -44,42 +45,56 @@ class Cache:
 
 
   def read(self, name, cache_dic, lang, string):
+    hash_string = hashlib.sha1(string.encode()).hexdigest()
     if name == 'stanza':
-      tokens = cache_dic[lang][string]['tokens']
-      end_pos = cache_dic[lang][string]['end_pos']
-      lemma = cache_dic[lang][string]['lemma']
-      pos = cache_dic[lang][string]['pos']
-      nlpWordsList = cache_dic[lang][string]['nlpWordsList']
-      hasCompoundWords = cache_dic[lang][string]['hasCompoundWords']
+      tokens = cache_dic[lang][hash_string]['tokens']
+      end_pos = cache_dic[lang][hash_string]['end_pos']
+      lemma = cache_dic[lang][hash_string]['lemma']
+      pos = cache_dic[lang][hash_string]['pos']
+      nlpWordsList = cache_dic[lang][hash_string]['nlpWordsList']
+      hasCompoundWords = cache_dic[lang][hash_string]['hasCompoundWords']
+      if 'count' not in cache_dic[lang][hash_string].keys():
+          cache_dic[lang][hash_string]['count'] = 1
+      else:
+          cache_dic[lang][hash_string]['count'] += 1
+
       print("--------------The annotations is loaded from cache_" + name + "--------------")
 
-      return tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords
+
+      return tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords, cache_dic
     
     else:
-      tokens = cache_dic[lang][string]['tokens']
-      end_pos = cache_dic[lang][string]['end_pos']
-      lemma = cache_dic[lang][string]['lemma']
-      pos = cache_dic[lang][string]['pos']
+      tokens = cache_dic[lang][hash_string]['tokens']
+      end_pos = cache_dic[lang][hash_string]['end_pos']
+      lemma = cache_dic[lang][hash_string]['lemma']
+      pos = cache_dic[lang][hash_string]['pos']
+      if 'count' not in cache_dic[lang][hash_string].keys():
+          cache_dic[lang][hash_string]['count'] =1
+      else:
+          cache_dic[lang][hash_string]['count'] += 1
       print("--------------The annotations is loaded from cache_" + name + "--------------")
 
-      return tokens, end_pos, lemma, pos
+      return tokens, end_pos, lemma, pos, cache_dic
 
 
   def add(self, name, cache_dic, lang, string, get_services): 
     '''
     get_services: funtion to produce annotations. Eg: get_services_stanza
     '''
+    hash_string = hashlib.sha1(string.encode()).hexdigest()
     if name == 'stanza':
       model = self.map[name][lang]
       docs = model(string)
       tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords = get_services(docs)
-      cache_dic[lang][string] = {}
-      cache_dic[lang][string]['tokens'] = tokens
-      cache_dic[lang][string]['end_pos'] = end_pos
-      cache_dic[lang][string]['lemma'] = lemma
-      cache_dic[lang][string]['pos'] = pos
-      cache_dic[lang][string]['nlpWordsList'] = nlpWordsList
-      cache_dic[lang][string]['hasCompoundWords'] = hasCompoundWords
+      cache_dic[lang][hash_string] = {}
+      cache_dic[lang][hash_string]['text'] = string
+      cache_dic[lang][hash_string]['tokens'] = tokens
+      cache_dic[lang][hash_string]['end_pos'] = end_pos
+      cache_dic[lang][hash_string]['lemma'] = lemma
+      cache_dic[lang][hash_string]['pos'] = pos
+      cache_dic[lang][hash_string]['nlpWordsList'] = nlpWordsList
+      cache_dic[lang][hash_string]['hasCompoundWords'] = hasCompoundWords
+      cache_dic[lang][hash_string]['count'] = 1
       print("--------------The annotations is not included in cache_" + name + "--------------")
 
       return tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords, cache_dic
@@ -88,19 +103,32 @@ class Cache:
       model = self.map[name][lang]
       docs = model(string)
       tokens, end_pos, lemma, pos = get_services(docs)
-      cache_dic[lang][string] = {}
-      cache_dic[lang][string]['tokens'] = tokens
-      cache_dic[lang][string]['end_pos'] = end_pos
-      cache_dic[lang][string]['lemma'] = lemma
-      cache_dic[lang][string]['pos'] = pos
+      cache_dic[lang][hash_string] = {}
+      cache_dic[lang][hash_string]['text'] = string
+      cache_dic[lang][hash_string]['tokens'] = tokens
+      cache_dic[lang][hash_string]['end_pos'] = end_pos
+      cache_dic[lang][hash_string]['lemma'] = lemma
+      cache_dic[lang][hash_string]['pos'] = pos
+      cache_dic[lang][hash_string]['count'] = 1
       print("--------------The annotations is not included in cache_" + name + "--------------")
 
       return tokens, end_pos, lemma, pos, cache_dic
 
   def count(self, cache_dic):
+    '''
+    This function is used to count the number of sentence in a cache
+    '''  
     num = sum([len(cache_dic[key]) for key in cache_dic.keys()])
 
     return num
+
+  def save(self, cache_dic, name):
+
+    json_dic = json.dumps(cache_dic, indent=4)
+    with open('cache_'+ name + '_'+ datetime.now().strftime('%Y-%m-%d-%H-%M-%S') + '.json', 'w') as json_file:
+        json_file.write(json_dic)      
+
+
 
 ################################ Model Loading ################################
 print("Initialization starts")
@@ -327,10 +355,13 @@ def load2TexAS(data):
     """
     # State global variable
     global cache_stanza, cache_spacy, cache_udpipe, cache_trankit
+
     # Collect the data
     string = data['text']
     lang = data['lang']
     packages = data['packages']
+
+    hash_string = hashlib.sha1(string.encode()).hexdigest()
 
     final_HTML = ""
     message_HTML = "<div class=\'message\'>"
@@ -346,11 +377,12 @@ def load2TexAS(data):
 
         ## If cache is full, reload the cache.
         if cache.count(cache_stanza) > 100:
+            cache.save(cache_stanza, "stanza")
             cache_stanza = cache.load("stanza")
         
         ## Check text whether is already in cache
-        if string in cache_stanza[lang].keys():
-            tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords = cache.read("stanza", cache_stanza, lang, string)
+        if hash_string in cache_stanza[lang].keys():
+            tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords, cache_stanza = cache.read("stanza", cache_stanza, lang, string) #The output cache_stanza has 'count' been updated.
         else:
             tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords, cache_stanza = cache.add("stanza", cache_stanza, lang, string, get_services_stanza)
             
@@ -392,11 +424,12 @@ def load2TexAS(data):
             
             ## If cache is full, reload the cache.
             if cache.count(cache_spacy) > 100:
+                cache.save(cache_spacy, "spacy")
                 cache_spacy = cache.load("spacy")
             
             ## Check text whether is already in cache
-            if string in cache_spacy[lang].keys():
-                tokens, end_pos, lemma, pos = cache.read("spacy", cache_spacy, lang, string)
+            if hash_string in cache_spacy[lang].keys():
+                tokens, end_pos, lemma, pos, cache_spacy = cache.read("spacy", cache_spacy, lang, string)
             else:
                 tokens, end_pos, lemma, pos, cache_spacy = cache.add("spacy", cache_spacy, lang, string, get_services_spacy)
             
@@ -423,11 +456,12 @@ def load2TexAS(data):
     if "udpipe" in packages:       
         ## If cache is full, reload the cache.
         if cache.count(cache_udpipe) > 100:
+            cache.save(cache_udpipe, "udpipe")
             cache_udpipe = cache.load("udpipe")
         
         ## Check text whether is already in cache
-        if string in cache_udpipe[lang].keys():
-            tokens, end_pos, lemma, pos = cache.read("udpipe", cache_udpipe, lang, string)
+        if hash_string in cache_udpipe[lang].keys():
+            tokens, end_pos, lemma, pos, cache_udpipe = cache.read("udpipe", cache_udpipe, lang, string)
         else:
             tokens, end_pos, lemma, pos, cache_udpipe = cache.add("udpipe", cache_udpipe, lang, string, get_services_udpipe)
         
@@ -467,11 +501,12 @@ def load2TexAS(data):
             
             ## If cache is full, reload the cache.
             if cache.count(cache_trankit) > 100:
+                cache.save(cache_trankit, "trankit")
                 cache_trankit = cache.load("trankit")
             
             ## Check text whether is already in cache
-            if string in cache_trankit[lang].keys():
-                tokens, end_pos, lemma, pos = cache.read("trankit", cache_trankit, lang, string)
+            if hash_string in cache_trankit[lang].keys():
+                tokens, end_pos, lemma, pos, cache_trankit = cache.read("trankit", cache_trankit, lang, string)
             else:
                 tokens, end_pos, lemma, pos, cache_trankit = cache.add("trankit", cache_trankit, lang, string, get_services_trankit)
                         
@@ -575,3 +610,8 @@ if __name__ == '__main__':
 
     # Start the service
     cherrypy.quickstart(Annotation(), '/', conf)
+
+    cache.save(cache_stanza, "stanza")
+    cache.save(cache_spacy, "spacy")
+    cache.save(cache_udpipe, "udpipe")
+    cache.save(cache_trankit, "trankit")

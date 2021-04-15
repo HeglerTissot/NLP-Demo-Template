@@ -1,8 +1,10 @@
 import json
+import hashlib
 import stanza
 import spacy
 import spacy_udpipe
 import trankit
+
 
 
 ################################ Sample Sentences ################################
@@ -268,13 +270,19 @@ for lang in example_dic.keys():
   for string in example_dic[lang]:
     docs = model(string)
     tokens, end_pos, lemma, pos, nlpWordsList, hasCompoundWords = get_services_stanza(docs)
-    cache_stanza[lang][string] = {}
-    cache_stanza[lang][string]['tokens'] = tokens
-    cache_stanza[lang][string]['end_pos'] = end_pos
-    cache_stanza[lang][string]['lemma'] = lemma
-    cache_stanza[lang][string]['pos'] = pos
-    cache_stanza[lang][string]['nlpWordsList'] = nlpWordsList
-    cache_stanza[lang][string]['hasCompoundWords'] = hasCompoundWords
+    hash_string = hashlib.sha1(string.encode()).hexdigest()
+
+    if hash_string in cache_stanza[lang].keys():
+        raise ValueError('ERROR: Different text has same hash value!')
+    else:
+        cache_stanza[lang][hash_string] = {}
+        cache_stanza[lang][hash_string]['text'] = string
+        cache_stanza[lang][hash_string]['tokens'] = tokens
+        cache_stanza[lang][hash_string]['end_pos'] = end_pos
+        cache_stanza[lang][hash_string]['lemma'] = lemma
+        cache_stanza[lang][hash_string]['pos'] = pos
+        cache_stanza[lang][hash_string]['nlpWordsList'] = nlpWordsList
+        cache_stanza[lang][hash_string]['hasCompoundWords'] = hasCompoundWords
 
 # Create cache for spacy 
 cache_spacy = {}
@@ -287,11 +295,17 @@ for lang in example_dic.keys():
     for string in example_dic[lang]:
         docs = model(string) 
         tokens, end_pos, lemma, pos = get_services_spacy(docs)
-        cache_spacy[lang][string] = {}
-        cache_spacy[lang][string]['tokens'] = tokens
-        cache_spacy[lang][string]['end_pos'] = end_pos
-        cache_spacy[lang][string]['lemma'] = lemma
-        cache_spacy[lang][string]['pos'] = pos
+        hash_string = hashlib.sha1(string.encode()).hexdigest()
+
+        if hash_string in cache_spacy[lang].keys():
+            raise ValueError('ERROR: Different text has same hash value!')
+        else:
+            cache_spacy[lang][hash_string] = {}
+            cache_spacy[lang][hash_string]['text'] = string
+            cache_spacy[lang][hash_string]['tokens'] = tokens
+            cache_spacy[lang][hash_string]['end_pos'] = end_pos
+            cache_spacy[lang][hash_string]['lemma'] = lemma
+            cache_spacy[lang][hash_string]['pos'] = pos
     
 
 # Create cache for udpipe 
@@ -302,11 +316,17 @@ for lang in example_dic.keys():
   for string in example_dic[lang]:
     docs = model(string) 
     tokens, end_pos, lemma, pos = get_services_udpipe(docs)
-    cache_udpipe[lang][string] = {}
-    cache_udpipe[lang][string]['tokens'] = tokens
-    cache_udpipe[lang][string]['end_pos'] = end_pos
-    cache_udpipe[lang][string]['lemma'] = lemma
-    cache_udpipe[lang][string]['pos'] = pos
+    hash_string = hashlib.sha1(string.encode()).hexdigest()
+
+    if hash_string in cache_udpipe[lang].keys():
+        raise ValueError('ERROR: Different text has same hash value!')
+    else:
+        cache_udpipe[lang][hash_string] = {}
+        cache_udpipe[lang][hash_string]['text'] = string
+        cache_udpipe[lang][hash_string]['tokens'] = tokens
+        cache_udpipe[lang][hash_string]['end_pos'] = end_pos
+        cache_udpipe[lang][hash_string]['lemma'] = lemma
+        cache_udpipe[lang][hash_string]['pos'] = pos
 
 # Create cache for trankit 
 cache_trankit = {}
@@ -317,11 +337,17 @@ for lang in example_dic.keys():
         for string in example_dic[lang]:
             docs = model(string) 
             tokens, end_pos, lemma, pos = get_services_trankit(docs)
-            cache_trankit[lang][string] = {}
-            cache_trankit[lang][string]['tokens'] = tokens
-            cache_trankit[lang][string]['end_pos'] = end_pos
-            cache_trankit[lang][string]['lemma'] = lemma
-            cache_trankit[lang][string]['pos'] = pos
+            hash_string = hashlib.sha1(string.encode()).hexdigest()
+
+            if hash_string in cache_trankit[lang].keys():
+                raise ValueError('ERROR: Different text has same hash value!')
+            else:
+                cache_trankit[lang][hash_string] = {}
+                cache_trankit[lang][hash_string]['text'] = string
+                cache_trankit[lang][hash_string]['tokens'] = tokens
+                cache_trankit[lang][hash_string]['end_pos'] = end_pos
+                cache_trankit[lang][hash_string]['lemma'] = lemma
+                cache_trankit[lang][hash_string]['pos'] = pos
     else:
         pass
 

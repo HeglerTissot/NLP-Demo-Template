@@ -1,6 +1,7 @@
 {
     "eng": {
-        "St. Michael's Church is on 5th st. near the light.": {
+        "4247557796315fd3559c3a6f518eb86d7d704593": {
+            "text": "St. Michael's Church is on 5th st. near the light.",
             "tokens": [
                 "St",
                 ".",
@@ -53,7 +54,8 @@
                 "PUNCT"
             ]
         },
-        "Hello world. My name is Mr. Smith. I work for the U.S. Government and I live in the U.S. I live in New York.": {
+        "c8daaafd0d0380daf2b26dcd18e7e25a0ade7d76": {
+            "text": "Hello world. My name is Mr. Smith. I work for the U.S. Government and I live in the U.S. I live in New York.",
             "tokens": [
                 "Hello",
                 "world",
@@ -147,7 +149,8 @@
                 "PUNCT"
             ]
         },
-        "Mr.O'Neill thinks that the boys' stories about Chile's capital aren't amusing.": {
+        "2efb9873524553e7c5d4efd0aa60e16ff1f1c9f1": {
+            "text": "Mr.O'Neill thinks that the boys' stories about Chile's capital aren't amusing.",
             "tokens": [
                 "Mr.",
                 "O'",
@@ -209,7 +212,8 @@
                 "PUNCT"
             ]
         },
-        "You can find it at N\u00b0. 1026.253.553. That is where the treasure is.": {
+        "db5f4cc54b58c676c883371aacb02631dc8855ca": {
+            "text": "You can find it at N\u00b0. 1026.253.553. That is where the treasure is.",
             "tokens": [
                 "You",
                 "can",
@@ -269,7 +273,8 @@
                 "PUNCT"
             ]
         },
-        "I wasn\u2019t really ... well, what I mean...see . . . what I'm saying, the thing is . . . I didn\u2019t mean it.": {
+        "408091c0c4ca416b8e77006b7adb070a8d033518": {
+            "text": "I wasn\u2019t really ... well, what I mean...see . . . what I'm saying, the thing is . . . I didn\u2019t mean it.",
             "tokens": [
                 "I",
                 "was",
@@ -374,7 +379,8 @@
                 "PUNCT"
             ]
         },
-        "One further habit which was somewhat weakened . . . was that of combining words into self-interpreting compounds. . . . The practice was not abandoned. . . .": {
+        "4a4b566ebfe4f1749248b72c147d1a63d8d14f7b": {
+            "text": "One further habit which was somewhat weakened . . . was that of combining words into self-interpreting compounds. . . . The practice was not abandoned. . . .",
             "tokens": [
                 "One",
                 "further",
@@ -486,7 +492,8 @@
                 "PUNCT"
             ]
         },
-        "The Indo-European Caucus won the all-male election 58-32.": {
+        "19c7b8311ca71eb85c8cc3eb22e04340dbfc5a9a": {
+            "text": "The Indo-European Caucus won the all-male election 58-32.",
             "tokens": [
                 "The",
                 "Indo",
@@ -542,7 +549,8 @@
                 "PUNCT"
             ]
         },
-        "1) The first item. 2) The second item.": {
+        "d90b84a27afc70f3f216878eb519daac6befe1e1": {
+            "text": "1) The first item. 2) The second item.",
             "tokens": [
                 "1",
                 ")",
@@ -591,7 +599,8 @@
                 "PUNCT"
             ]
         },
-        "1. The first item 2. The second item": {
+        "78d4b9d3f8379554043ca596d6c602cfe0f7784b": {
+            "text": "1. The first item 2. The second item",
             "tokens": [
                 "1",
                 ".",
@@ -634,7 +643,8 @@
                 "NOUN"
             ]
         },
-        "1. The first item. 2. The second item.": {
+        "672c1d72220f9bd063300ec0a5a15875a337ee63": {
+            "text": "1. The first item. 2. The second item.",
             "tokens": [
                 "1",
                 ".",
@@ -685,7 +695,8 @@
         }
     },
     "cmn": {
-        "\u5df4\u62c9\u514b\u00b7\u5965\u5df4\u9a6c\u5728\u590f\u5a01\u5937\u51fa\u751f\u3002\u4ed6\u559c\u6b22\u5bff\u53f8\u3002": {
+        "0f4b2f61df05e43864c25c1e40c3330759160266": {
+            "text": "\u5df4\u62c9\u514b\u00b7\u5965\u5df4\u9a6c\u5728\u590f\u5a01\u5937\u51fa\u751f\u3002\u4ed6\u559c\u6b22\u5bff\u53f8\u3002",
             "tokens": [
                 "\u5df4\u62c9\u514b",
                 "\u00b7",
@@ -742,7 +753,8 @@
                 "PUNCT"
             ]
         },
-        "\u9ec4\u5c71\u4f4d\u4e8e\u5b89\u5fbd\u7701\u5357\u90e8\u9ec4\u5c71\u5e02\u5883\u5185\uff0c\u670972\u5cf0\uff0c\u4e3b\u5cf0\u83b2\u82b1\u5cf0\u6d77\u62d41864\u7c73\uff0c\u4e0e\u5149\u660e\u9876\u3001\u5929\u90fd\u5cf0\u5e76\u79f0\u4e09\u5927\u9ec4\u5c71\u4e3b\u5cf0\uff0c\u4e3a36\u5927\u5cf0\u4e4b\u4e00\u3002\u9ec4\u5c71\u662f\u5b89\u5fbd\u65c5\u6e38\u7684\u6807\u5fd7\u3002": {
+        "1077b426860c9687fd7a72ef9bc992084fadf873": {
+            "text": "\u9ec4\u5c71\u4f4d\u4e8e\u5b89\u5fbd\u7701\u5357\u90e8\u9ec4\u5c71\u5e02\u5883\u5185\uff0c\u670972\u5cf0\uff0c\u4e3b\u5cf0\u83b2\u82b1\u5cf0\u6d77\u62d41864\u7c73\uff0c\u4e0e\u5149\u660e\u9876\u3001\u5929\u90fd\u5cf0\u5e76\u79f0\u4e09\u5927\u9ec4\u5c71\u4e3b\u5cf0\uff0c\u4e3a36\u5927\u5cf0\u4e4b\u4e00\u3002\u9ec4\u5c71\u662f\u5b89\u5fbd\u65c5\u6e38\u7684\u6807\u5fd7\u3002",
             "tokens": [
                 "\u9ec4",
                 "\u5c71\u4f4d",
@@ -895,7 +907,8 @@
                 "PUNCT"
             ]
         },
-        "\u8fd9\u91cc\u6709\u7ed3\u5a5a\u7684\u548c\u5c1a\u672a\u7ed3\u5a5a\u7684\u4eba\u3002": {
+        "1575fb913cdcdbd23b76ca90a8d86c19b10c4e46": {
+            "text": "\u8fd9\u91cc\u6709\u7ed3\u5a5a\u7684\u548c\u5c1a\u672a\u7ed3\u5a5a\u7684\u4eba\u3002",
             "tokens": [
                 "\u8fd9",
                 "\u91cc",
@@ -942,7 +955,8 @@
                 "PUNCT"
             ]
         },
-        "\u771f\u7684\u662f\u8fd9\u6837\u5417... \u600e\u4e48\u8fd9\u4e48\u591a\u4e8b\u513f\uff01": {
+        "575f1d61945a99c958abd55e30616c9938799022": {
+            "text": "\u771f\u7684\u662f\u8fd9\u6837\u5417... \u600e\u4e48\u8fd9\u4e48\u591a\u4e8b\u513f\uff01",
             "tokens": [
                 "\u771f",
                 "\u7684",
@@ -995,7 +1009,8 @@
                 "PUNCT"
             ]
         },
-        "\u4f60\u5bb6\u7528\u4ec0\u4e48\u6837\u7684\u7535\u8111\uff1f\u6211\u5bb6\u7528\u5bb6\u7528\u7535\u8111\u3002": {
+        "16ae97555088498fbdf2a2d32de954dbe6b4c2e4": {
+            "text": "\u4f60\u5bb6\u7528\u4ec0\u4e48\u6837\u7684\u7535\u8111\uff1f\u6211\u5bb6\u7528\u5bb6\u7528\u7535\u8111\u3002",
             "tokens": [
                 "\u4f60",
                 "\u5bb6\u7528\u4ec0",
@@ -1049,7 +1064,8 @@
                 "PUNCT"
             ]
         },
-        "\u4f60\u7684\u7259\u5237\u4e86\u5417\uff1f\u6211\u7684\u7259\u5237\u4e0d\u89c1\u4e86\u3002": {
+        "65ae44b49a053129e1b8fb27e07b15d19e463936": {
+            "text": "\u4f60\u7684\u7259\u5237\u4e86\u5417\uff1f\u6211\u7684\u7259\u5237\u4e0d\u89c1\u4e86\u3002",
             "tokens": [
                 "\u4f60",
                 "\u7684",
@@ -1094,7 +1110,8 @@
                 "PUNCT"
             ]
         },
-        "\u628a\u624b\u4e3e\u8d77\u6765\uff01\u8fd9\u4e2a\u628a\u624b\u662f\u6728\u5236\u7684\u3002": {
+        "cd913b77e4661d71783d49eb7279ceed04159bbb": {
+            "text": "\u628a\u624b\u4e3e\u8d77\u6765\uff01\u8fd9\u4e2a\u628a\u624b\u662f\u6728\u5236\u7684\u3002",
             "tokens": [
                 "\u628a",
                 "\u624b",
@@ -1144,7 +1161,8 @@
                 "PUNCT"
             ]
         },
-        "\u4e00\u884c\u884c\u884c\u884c\u884c\uff0c\u4e00\u884c\u4e0d\u884c\u884c\u884c\u4e0d\u4e0d\u884c\u3002": {
+        "5c2a0136b8e66d6095f1bad16c863e6239cf2642": {
+            "text": "\u4e00\u884c\u884c\u884c\u884c\u884c\uff0c\u4e00\u884c\u4e0d\u884c\u884c\u884c\u4e0d\u4e0d\u884c\u3002",
             "tokens": [
                 "\u4e00",
                 "\u884c",
@@ -1194,7 +1212,8 @@
                 "PUNCT"
             ]
         },
-        "\u5c0f\u9f99\u5973\u8bf4\uff1a\"\u6211\u60f3\u8fc7\u8fc7\u8fc7\u513f\u8fc7\u8fc7\u7684\u751f\u6d3b\u3002\"": {
+        "04a389a5921a2de653810d9a9bf5abfc5fec2e3c": {
+            "text": "\u5c0f\u9f99\u5973\u8bf4\uff1a\"\u6211\u60f3\u8fc7\u8fc7\u8fc7\u513f\u8fc7\u8fc7\u7684\u751f\u6d3b\u3002\"",
             "tokens": [
                 "\u5c0f",
                 "\u9f99",
@@ -1257,7 +1276,8 @@
                 "PUNCT"
             ]
         },
-        "\u53e6\u4e00\u4e2a\u5bbf\u820d\u7684\u4eba\u8bf4\u4f60\u4eec\u5bbf\u820d\u7684\u5730\u5f97\u626b\u4e86\u3002": {
+        "04b688bddba03ed20bcfda454a7c8eb6bc40999d": {
+            "text": "\u53e6\u4e00\u4e2a\u5bbf\u820d\u7684\u4eba\u8bf4\u4f60\u4eec\u5bbf\u820d\u7684\u5730\u5f97\u626b\u4e86\u3002",
             "tokens": [
                 "\u53e6",
                 "\u4e00",
@@ -1313,7 +1333,8 @@
                 "PUNCT"
             ]
         },
-        "\u6821\u957f\u8bf4\u8863\u670d\u4e0a\u9664\u4e86\u6821\u5fbd\u522b\u522b\u522b\u7684\u3002": {
+        "c3dfda4fb25658528d33ad4457954919e0cf6e03": {
+            "text": "\u6821\u957f\u8bf4\u8863\u670d\u4e0a\u9664\u4e86\u6821\u5fbd\u522b\u522b\u522b\u7684\u3002",
             "tokens": [
                 "\u6821",
                 "\u957f",
@@ -1363,7 +1384,8 @@
                 "PUNCT"
             ]
         },
-        "\u6765\u5230\u513f\u5b50\u7b49\u6821\u8f66\u7684\u5730\u65b9\uff0c\u9093\u8d85\u5bf9\u5b59\u4fea\u8bf4:\"\u6211\u4e5f\u60f3\u7b49\u7b49\u7b49\u7b49\u7b49\u8fc7\u7684\u90a3\u8f86\u8f66\u3002\"": {
+        "d4897f30e53d86a84cbf8117c407e98ce2dabea6": {
+            "text": "\u6765\u5230\u513f\u5b50\u7b49\u6821\u8f66\u7684\u5730\u65b9\uff0c\u9093\u8d85\u5bf9\u5b59\u4fea\u8bf4:\"\u6211\u4e5f\u60f3\u7b49\u7b49\u7b49\u7b49\u7b49\u8fc7\u7684\u90a3\u8f86\u8f66\u3002\"",
             "tokens": [
                 "\u6765",
                 "\u5230",
@@ -1462,7 +1484,8 @@
                 "PUNCT"
             ]
         },
-        "\u4e00\u4f4d\u53cb\u597d\u7684\u54e5\u8c2d\u5e02\u6c11\u3002": {
+        "3ae8cabf74b0ec84b92600ffe2a226f845bdb75d": {
+            "text": "\u4e00\u4f4d\u53cb\u597d\u7684\u54e5\u8c2d\u5e02\u6c11\u3002",
             "tokens": [
                 "\u4e00",
                 "\u4f4d",
@@ -1499,7 +1522,8 @@
         }
     },
     "spa": {
-        "Mohandas Karamchand Gandhi (Porbandar, India brit\u00e1nica; 2 de octubre de 1869\u2013Nueva Delhi, Uni\u00f3n de la India; 30 de enero de 1948) fue el dirigente m\u00e1s destacado del Movimiento de independencia de la India contra el Raj brit\u00e1nico, para lo que practic\u00f3 la desobediencia civil no violenta, adem\u00e1s de pacifista, pol\u00edtico, pensador y abogado hinduista indio.": {
+        "52c3f1fadf3036946469bd372df4cb9169519ce9": {
+            "text": "Mohandas Karamchand Gandhi (Porbandar, India brit\u00e1nica; 2 de octubre de 1869\u2013Nueva Delhi, Uni\u00f3n de la India; 30 de enero de 1948) fue el dirigente m\u00e1s destacado del Movimiento de independencia de la India contra el Raj brit\u00e1nico, para lo que practic\u00f3 la desobediencia civil no violenta, adem\u00e1s de pacifista, pol\u00edtico, pensador y abogado hinduista indio.",
             "tokens": [
                 "Mohandas",
                 "Karamchand",
@@ -1708,7 +1732,8 @@
                 "PUNCT"
             ]
         },
-        "Sigmund Freud fue un neur\u00f3logo austriaco y fundador del psicoan\u00e1lisis, un m\u00e9todo cl\u00ednico para tratar la psicopatolog\u00eda a trav\u00e9s del di\u00e1logo entre un paciente y un psicoanalista. Freud naci\u00f3 de padres jud\u00edos gallegos en la ciudad morava de Freiberg, en el Imperio austr\u00edaco. Se gradu\u00f3 como doctor en medicina en 1881 en la Universidad de Viena. Freud vivi\u00f3 y trabaj\u00f3 en Viena, donde estableci\u00f3 su pr\u00e1ctica cl\u00ednica en 1886. En 1938, Freud dej\u00f3 Austria para escapar de la persecuci\u00f3n nazi. Muri\u00f3 exiliado en el Reino Unido en 1939.": {
+        "919b5c0338a8b4d03219e36e840ba48a643a2d2a": {
+            "text": "Sigmund Freud fue un neur\u00f3logo austriaco y fundador del psicoan\u00e1lisis, un m\u00e9todo cl\u00ednico para tratar la psicopatolog\u00eda a trav\u00e9s del di\u00e1logo entre un paciente y un psicoanalista. Freud naci\u00f3 de padres jud\u00edos gallegos en la ciudad morava de Freiberg, en el Imperio austr\u00edaco. Se gradu\u00f3 como doctor en medicina en 1881 en la Universidad de Viena. Freud vivi\u00f3 y trabaj\u00f3 en Viena, donde estableci\u00f3 su pr\u00e1ctica cl\u00ednica en 1886. En 1938, Freud dej\u00f3 Austria para escapar de la persecuci\u00f3n nazi. Muri\u00f3 exiliado en el Reino Unido en 1939.",
             "tokens": [
                 "Sigmund",
                 "Freud",
@@ -2018,7 +2043,8 @@
                 "PUNCT"
             ]
         },
-        "Barack Hussein Obama II es un pol\u00edtico y abogado estadounidense que se desempe\u00f1\u00f3 como el 44\u00ba presidente de los Estados Unidos de 2009 a 2017. Miembro del Partido Dem\u00f3crata, Obama fue el primer presidente afroamericano de los Estados Unidos. Anteriormente se desempe\u00f1\u00f3 como senador de Estados Unidos por Illinois de 2005 a 2008 y como senador del estado de Illinois de 1997 a 2004. ": {
+        "7386a67d53a422630e0a2263b65a5f1db25af8ed": {
+            "text": "Barack Hussein Obama II es un pol\u00edtico y abogado estadounidense que se desempe\u00f1\u00f3 como el 44\u00ba presidente de los Estados Unidos de 2009 a 2017. Miembro del Partido Dem\u00f3crata, Obama fue el primer presidente afroamericano de los Estados Unidos. Anteriormente se desempe\u00f1\u00f3 como senador de Estados Unidos por Illinois de 2005 a 2008 y como senador del estado de Illinois de 1997 a 2004. ",
             "tokens": [
                 "Barack",
                 "Hussein",
@@ -2235,7 +2261,8 @@
                 "PUNCT"
             ]
         },
-        "Mohandas Karamchand Gandhi fue un abogado indio, nacionalista anticolonial y especialista en \u00e9tica pol\u00edtica, que emple\u00f3 la resistencia no violenta para liderar la exitosa campa\u00f1a por la independencia de la India del dominio brit\u00e1nico y, a su vez, inspir\u00f3 movimientos por los derechos civiles y la libertad en todo el mundo. El Mah\u0101tm\u0101 honor\u00edfico, que se le aplic\u00f3 por primera vez en 1914 en Sud\u00e1frica, ahora se usa en todo el mundo.": {
+        "9e77ef0b1c98ac85241ac73407acd55f32964847": {
+            "text": "Mohandas Karamchand Gandhi fue un abogado indio, nacionalista anticolonial y especialista en \u00e9tica pol\u00edtica, que emple\u00f3 la resistencia no violenta para liderar la exitosa campa\u00f1a por la independencia de la India del dominio brit\u00e1nico y, a su vez, inspir\u00f3 movimientos por los derechos civiles y la libertad en todo el mundo. El Mah\u0101tm\u0101 honor\u00edfico, que se le aplic\u00f3 por primera vez en 1914 en Sud\u00e1frica, ahora se usa en todo el mundo.",
             "tokens": [
                 "Mohandas",
                 "Karamchand",
@@ -2489,7 +2516,8 @@
         }
     },
     "fre": {
-        "Apple cherche \u00e0 acheter une start-up anglaise pour 1 milliard de dollars.": {
+        "34bf789a517e58ebe5de0ee3eb1916b5680064c2": {
+            "text": "Apple cherche \u00e0 acheter une start-up anglaise pour 1 milliard de dollars.",
             "tokens": [
                 "Apple",
                 "cherche",
@@ -2542,7 +2570,8 @@
                 "PUNCT"
             ]
         },
-        "Nous avons atteint la fin du sentier.": {
+        "b20f4ae1aec7c3c4a749d211c61a8867c1f4a2a2": {
+            "text": "Nous avons atteint la fin du sentier.",
             "tokens": [
                 "Nous",
                 "avons",
@@ -2580,7 +2609,8 @@
                 "PUNCT"
             ]
         },
-        "Le comit\u00e9 de s\u00e9curit\u00e9 de l\u2019AEM \u00ab examinera plus en d\u00e9tail les informations demain [mardi], et a convoqu\u00e9 une r\u00e9union extraordinaire le jeudi 18 mars pour statuer quant aux informations recueillies et \u00e0 toute autre mesure qui pourrait s\u2019av\u00e9rer n\u00e9cessaire \u00bb, a ainsi d\u00e9clar\u00e9 \u00e0 Amsterdam le r\u00e9gulateur europ\u00e9en, par voie de communiqu\u00e9.": {
+        "fa4543cc290ffd41039cfad357efdc405ec0357e": {
+            "text": "Le comit\u00e9 de s\u00e9curit\u00e9 de l\u2019AEM \u00ab examinera plus en d\u00e9tail les informations demain [mardi], et a convoqu\u00e9 une r\u00e9union extraordinaire le jeudi 18 mars pour statuer quant aux informations recueillies et \u00e0 toute autre mesure qui pourrait s\u2019av\u00e9rer n\u00e9cessaire \u00bb, a ainsi d\u00e9clar\u00e9 \u00e0 Amsterdam le r\u00e9gulateur europ\u00e9en, par voie de communiqu\u00e9.",
             "tokens": [
                 "Le",
                 "comit\u00e9",
@@ -2777,7 +2807,8 @@
                 "PUNCT"
             ]
         },
-        "Vous \u00eates un(e) mordu(e) de sneakers ou bien tout simplement fan de la marque, \u00e9conomisez sur vos prochaines commandes gr\u00e2ce \u00e0 nos codes promo Nike ! Agrandissez votre collection ou votre \u00e9quipez vous \u00e0 prix r\u00e9duit. Cette semaine, voici les promotions \u00e0 ne pas louper: 15% de r\u00e9duc suppl\u00e9mentaire avec notre code promo NIke.": {
+        "7bb449aad63eaf1106b4fc6f8abe6c0dbf06263a": {
+            "text": "Vous \u00eates un(e) mordu(e) de sneakers ou bien tout simplement fan de la marque, \u00e9conomisez sur vos prochaines commandes gr\u00e2ce \u00e0 nos codes promo Nike ! Agrandissez votre collection ou votre \u00e9quipez vous \u00e0 prix r\u00e9duit. Cette semaine, voici les promotions \u00e0 ne pas louper: 15% de r\u00e9duc suppl\u00e9mentaire avec notre code promo NIke.",
             "tokens": [
                 "Vous",
                 "\u00eates",
@@ -2987,7 +3018,8 @@
         }
     },
     "ger": {
-        "Die ganze Stadt ist ein Startup: Shenzhen ist das Silicon Valley f\u00fcr Hardw": {
+        "83721275997f083971647349c38423be9638aca4": {
+            "text": "Die ganze Stadt ist ein Startup: Shenzhen ist das Silicon Valley f\u00fcr Hardw",
             "tokens": [
                 "Die",
                 "ganze",
@@ -3040,7 +3072,8 @@
                 "PROPN"
             ]
         },
-        "Sigmund Freud war ein \u00f6sterreichischer Neurologe und der Begr\u00fcnder der Psychoanalyse, einer klinischen Methode zur Behandlung der Psychopathologie im Dialog zwischen einem Patienten und einem Psychoanalytiker. Freud wurde als Sohn galizischer j\u00fcdischer Eltern im m\u00e4hrischen Freiberg im \u00f6sterreichischen Reich geboren. Er qualifizierte sich 1881 als Doktor der Medizin an der Universit\u00e4t Wien. Freud lebte und arbeitete in Wien, nachdem er dort 1886 seine klinische Praxis eingerichtet hatte. 1938 verlie\u00df Freud \u00d6sterreich, um der nationalsozialistischen Verfolgung zu entgehen. Er starb 1939 im britischen Exil.": {
+        "8d84217c37db74d3a96692a2e1bb446e514ca8e3": {
+            "text": "Sigmund Freud war ein \u00f6sterreichischer Neurologe und der Begr\u00fcnder der Psychoanalyse, einer klinischen Methode zur Behandlung der Psychopathologie im Dialog zwischen einem Patienten und einem Psychoanalytiker. Freud wurde als Sohn galizischer j\u00fcdischer Eltern im m\u00e4hrischen Freiberg im \u00f6sterreichischen Reich geboren. Er qualifizierte sich 1881 als Doktor der Medizin an der Universit\u00e4t Wien. Freud lebte und arbeitete in Wien, nachdem er dort 1886 seine klinische Praxis eingerichtet hatte. 1938 verlie\u00df Freud \u00d6sterreich, um der nationalsozialistischen Verfolgung zu entgehen. Er starb 1939 im britischen Exil.",
             "tokens": [
                 "Sigmund",
                 "Freud",
@@ -3347,7 +3380,8 @@
                 "PUNCT"
             ]
         },
-        "Volkswagen eifert immer st\u00e4rker dem Rivalen Tesla nach: Bis 2030 will der Konzern sechs Fabriken zur Fertigung von Batteriezellen aufbauen. Auch ein europaweites Netz von Schnelllade-Stationen f\u00fcr Elektroautos soll entstehen.": {
+        "8b292992dda3c70b803e9da8952903509c8b263f": {
+            "text": "Volkswagen eifert immer st\u00e4rker dem Rivalen Tesla nach: Bis 2030 will der Konzern sechs Fabriken zur Fertigung von Batteriezellen aufbauen. Auch ein europaweites Netz von Schnelllade-Stationen f\u00fcr Elektroautos soll entstehen.",
             "tokens": [
                 "Volkswagen",
                 "eifert",
@@ -3467,7 +3501,8 @@
                 "PUNCT"
             ]
         },
-        "Er habe gro\u00dfe Sorge, dass der Mallorca-Ansturm ein erneutes Ansteigen der Fallzahlen verursachen werde. Es w\u00fcrde ihn nicht wundern, wenn die Insel in drei Wochen wieder in einen harten Lockdown m\u00fcsse, sagte Schmude. Hotels und Airlines h\u00e4tten zwar umfassende Hygienekonzepte umgesetzt, aber \"wir wissen, dass sich Menschen im Urlaub anders als im Alltag verhalten\". Generell versuchten viele Menschen, Probleme im Urlaub auszublenden. \"Und aktuell wollen diese Leute ja ganz bewusst raus aus der Corona-Situation in Deutschland\", so Schmude.": {
+        "ae36aac3d3b9c0a21210e767b357efe753a2122c": {
+            "text": "Er habe gro\u00dfe Sorge, dass der Mallorca-Ansturm ein erneutes Ansteigen der Fallzahlen verursachen werde. Es w\u00fcrde ihn nicht wundern, wenn die Insel in drei Wochen wieder in einen harten Lockdown m\u00fcsse, sagte Schmude. Hotels und Airlines h\u00e4tten zwar umfassende Hygienekonzepte umgesetzt, aber \"wir wissen, dass sich Menschen im Urlaub anders als im Alltag verhalten\". Generell versuchten viele Menschen, Probleme im Urlaub auszublenden. \"Und aktuell wollen diese Leute ja ganz bewusst raus aus der Corona-Situation in Deutschland\", so Schmude.",
             "tokens": [
                 "Er",
                 "habe",
@@ -3785,7 +3820,8 @@
                 "PUNCT"
             ]
         },
-        "Einsteins Hauptwerk, die Relativit\u00e4tstheorie, machte ihn weltber\u00fchmt. Im Jahr 1905 erschien seine Arbeit mit dem Titel Zur Elektrodynamik bewegter K\u00f6rper, deren Inhalt heute als spezielle Relativit\u00e4tstheorie bezeichnet wird. 1915 publizierte er die allgemeine Relativit\u00e4tstheorie. Auch zur Quantenphysik leistete er wesentliche Beitr\u00e4ge. \u201eF\u00fcr seine Verdienste um die theoretische Physik, besonders f\u00fcr seine Entdeckung des Gesetzes des photoelektrischen Effekts\u201c, erhielt er den Nobelpreis des Jahres 1921, der ihm 1922 \u00fcberreicht wurde. Seine theoretischen Arbeiten spielten \u2013 im Gegensatz zur weit verbreiteten Meinung \u2013 beim Bau der Atombombe und der Entwicklung der Kernenergie nur eine indirekte Rolle.": {
+        "ed5dfd2135178d979038411f9204188813fe6138": {
+            "text": "Einsteins Hauptwerk, die Relativit\u00e4tstheorie, machte ihn weltber\u00fchmt. Im Jahr 1905 erschien seine Arbeit mit dem Titel Zur Elektrodynamik bewegter K\u00f6rper, deren Inhalt heute als spezielle Relativit\u00e4tstheorie bezeichnet wird. 1915 publizierte er die allgemeine Relativit\u00e4tstheorie. Auch zur Quantenphysik leistete er wesentliche Beitr\u00e4ge. \u201eF\u00fcr seine Verdienste um die theoretische Physik, besonders f\u00fcr seine Entdeckung des Gesetzes des photoelektrischen Effekts\u201c, erhielt er den Nobelpreis des Jahres 1921, der ihm 1922 \u00fcberreicht wurde. Seine theoretischen Arbeiten spielten \u2013 im Gegensatz zur weit verbreiteten Meinung \u2013 beim Bau der Atombombe und der Entwicklung der Kernenergie nur eine indirekte Rolle.",
             "tokens": [
                 "Einsteins",
                 "Hauptwerk",
@@ -4145,7 +4181,8 @@
         }
     },
     "jpn": {
-        "\u30a2\u30c3\u30d7\u30eb\u304c\u30a4\u30ae\u30ea\u30b9\u306e\u65b0\u8208\u4f01\u696d\u3092\uff11\uff10\u5104\u30c9\u30eb\u3067\u8cfc\u5165\u3092\u691c\u8a0e": {
+        "3d0ecc0f7409be3e6fbf91b7497f0f59dcbd975c": {
+            "text": "\u30a2\u30c3\u30d7\u30eb\u304c\u30a4\u30ae\u30ea\u30b9\u306e\u65b0\u8208\u4f01\u696d\u3092\uff11\uff10\u5104\u30c9\u30eb\u3067\u8cfc\u5165\u3092\u691c\u8a0e",
             "tokens": [
                 "\u30a2\u30c3\u30d7\u30eb",
                 "\u304c",
@@ -4198,7 +4235,8 @@
                 "VERB"
             ]
         },
-        "\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u5f8c\u306e\u65e5\u672c\u306b\u304a\u3044\u3066\u3001\u95c7\u5e02\u3068\u3057\u3066\u767a\u5c55\u3057\u305f\u3002\u305d\u306e\u5f8c\u3001\u9ad8\u5ea6\u7d4c\u6e08\u6210\u9577\u3068\u3068\u3082\u306b\u591a\u69d8\u306a\u96fb\u5b50\u6a5f\u5668\u3084\u90e8\u54c1\uff08\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\uff09\u304a\u3088\u3073\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u53d6\u308a\u6271\u3046\u5e97\u8217\u306a\u3069\u304c\u5efa\u3061\u4e26\u3076\u4e16\u754c\u6709\u6570\u306e\u96fb\u6c17\u8857\u3068\u3057\u3066\u767a\u5c55\u3057\u305f\u3002\u4e16\u754c\u7684\u306a\u89b3\u5149\u5730\u306e\u9854\u3082\u6709\u3059\u308b\u3002\u79cb\u8449\uff08\u3042\u304d\u3070\uff09\u30fb\u30a2\u30ad\u30d0\u30fbAKIBA\u306e\u7565\u79f0\u3067\u547c\u3070\u308c\u308b\u3002": {
+        "1efd268818cdd43ad3cb91ac48984957348bc242": {
+            "text": "\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226\u5f8c\u306e\u65e5\u672c\u306b\u304a\u3044\u3066\u3001\u95c7\u5e02\u3068\u3057\u3066\u767a\u5c55\u3057\u305f\u3002\u305d\u306e\u5f8c\u3001\u9ad8\u5ea6\u7d4c\u6e08\u6210\u9577\u3068\u3068\u3082\u306b\u591a\u69d8\u306a\u96fb\u5b50\u6a5f\u5668\u3084\u90e8\u54c1\uff08\u30cf\u30fc\u30c9\u30a6\u30a7\u30a2\uff09\u304a\u3088\u3073\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3092\u53d6\u308a\u6271\u3046\u5e97\u8217\u306a\u3069\u304c\u5efa\u3061\u4e26\u3076\u4e16\u754c\u6709\u6570\u306e\u96fb\u6c17\u8857\u3068\u3057\u3066\u767a\u5c55\u3057\u305f\u3002\u4e16\u754c\u7684\u306a\u89b3\u5149\u5730\u306e\u9854\u3082\u6709\u3059\u308b\u3002\u79cb\u8449\uff08\u3042\u304d\u3070\uff09\u30fb\u30a2\u30ad\u30d0\u30fbAKIBA\u306e\u7565\u79f0\u3067\u547c\u3070\u308c\u308b\u3002",
             "tokens": [
                 "\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226",
                 "\u5f8c",
@@ -4416,7 +4454,8 @@
                 "PUNCT"
             ]
         },
-        "\u6c5f\u6238\u6642\u4ee3\u3001\u795e\u7530\u5ddd\u306b\u4e07\u4e16\u6a4b\u306f\u306a\u304f\u3001\u7b4b\u9055\u6a4b\uff08\u3059\u3058\u304b\u3044\u3070\u3057\uff09\u3068\u547c\u3070\u308c\u308b\u6a4b\u304c\u3084\u3084\u4e0a\u6d41\u306b\u67b6\u304b\u3063\u3066\u304a\u308a\u3001\u8857\u9053\u306f\u3053\u3053\u304b\u3089\u73fe\u5728\u306e\u30b3\u30c8\u30d6\u30ad\u30e4\u79cb\u8449\u539f\u9928\u3084AKIBA\u30ab\u30eb\u30c1\u30e3\u30fc\u30baZONE\u306e\u3042\u308b\u9053\uff08\u73fe\uff1a\u7279\u5225\u533a\u9053\u5343\u7b2c678\u53f7\uff09\u3092\u901a\u3063\u3066\u3001\u4f4f\u53cb\u4e0d\u52d5\u7523\u79cb\u8449\u539f\u30d3\u30eb\u306b\u7a81\u304d\u5f53\u305f\u3063\u3066\u53f3\u306b\u6298\u308c\u3001\u4e2d\u592e\u901a\u308a\u306b\u51fa\u308b\u30eb\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u305f[4]\u3002\u3053\u306e\u9053\u306f\u5fb3\u5ddd\u5c06\u8ecd\u5bb6\u306e\u5bdb\u6c38\u5bfa\u53c2\u8a63\u9053\u3067\u3042\u3063\u305f\u3053\u3068\u304b\u3089\u4e0b\u8c37\u5fa1\u6210\u8857\u9053\u3068\u547c\u3070\u308c\u305f\u3002\u7dcf\u6b66\u672c\u7dda\u30ac\u30fc\u30c9\u306e\u5fa1\u6210\u8857\u9053\u67b6\u9053\u6a4b\u306b\u540d\u6b8b\u3092\u7559\u3081\u308b\u3002": {
+        "a641ee1688c5c8333915f3b8f0d51ee470863b4d": {
+            "text": "\u6c5f\u6238\u6642\u4ee3\u3001\u795e\u7530\u5ddd\u306b\u4e07\u4e16\u6a4b\u306f\u306a\u304f\u3001\u7b4b\u9055\u6a4b\uff08\u3059\u3058\u304b\u3044\u3070\u3057\uff09\u3068\u547c\u3070\u308c\u308b\u6a4b\u304c\u3084\u3084\u4e0a\u6d41\u306b\u67b6\u304b\u3063\u3066\u304a\u308a\u3001\u8857\u9053\u306f\u3053\u3053\u304b\u3089\u73fe\u5728\u306e\u30b3\u30c8\u30d6\u30ad\u30e4\u79cb\u8449\u539f\u9928\u3084AKIBA\u30ab\u30eb\u30c1\u30e3\u30fc\u30baZONE\u306e\u3042\u308b\u9053\uff08\u73fe\uff1a\u7279\u5225\u533a\u9053\u5343\u7b2c678\u53f7\uff09\u3092\u901a\u3063\u3066\u3001\u4f4f\u53cb\u4e0d\u52d5\u7523\u79cb\u8449\u539f\u30d3\u30eb\u306b\u7a81\u304d\u5f53\u305f\u3063\u3066\u53f3\u306b\u6298\u308c\u3001\u4e2d\u592e\u901a\u308a\u306b\u51fa\u308b\u30eb\u30fc\u30c8\u3092\u3068\u3063\u3066\u3044\u305f[4]\u3002\u3053\u306e\u9053\u306f\u5fb3\u5ddd\u5c06\u8ecd\u5bb6\u306e\u5bdb\u6c38\u5bfa\u53c2\u8a63\u9053\u3067\u3042\u3063\u305f\u3053\u3068\u304b\u3089\u4e0b\u8c37\u5fa1\u6210\u8857\u9053\u3068\u547c\u3070\u308c\u305f\u3002\u7dcf\u6b66\u672c\u7dda\u30ac\u30fc\u30c9\u306e\u5fa1\u6210\u8857\u9053\u67b6\u9053\u6a4b\u306b\u540d\u6b8b\u3092\u7559\u3081\u308b\u3002",
             "tokens": [
                 "\u6c5f\u6238\u6642\u4ee3",
                 "\u3001",
@@ -4760,7 +4799,8 @@
                 "PUNCT"
             ]
         },
-        "\u5bcc\u58eb\u5c71\u304c\u65e5\u672c\u3092\u4ee3\u8868\u3059\u308b\u540d\u5cf0\u3067\u3042\u308b\u3053\u3068\u304b\u3089\u3001\u65e5\u672c\u306e\u5404\u5730\u306b\u300c\u5bcc\u58eb\u300d\u306e\u4ed8\u304f\u5730\u540d\u304c\u591a\u6570\u5b58\u5728\u3057\u3066\u3044\u308b\u3002\u5bcc\u58eb\u5c71\u9e93\u3067\u306f\u9759\u5ca1\u770c\u306b\u5bcc\u58eb\u5e02\u3084\u5bcc\u58eb\u5bae\u5e02\u3001\u5bcc\u58eb\u90e1\u3001\u5c71\u68a8\u770c\u306b\u5bcc\u58eb\u5409\u7530\u5e02\u3084\u5bcc\u58eb\u6cb3\u53e3\u6e56\u753a\u3001\u5bcc\u58eb\u5ddd\u753a\u304c\u3042\u308b\u3002\u4ed6\u306b\u3088\u304f\u3042\u308b\u3082\u306e\u3068\u3057\u3066\u5bcc\u58eb\u5c71\u304c\u898b\u3048\u308b\u5834\u6240\u3092\u5bcc\u58eb\u898b\u3068\u540d\u3065\u3051\u305f\u308a\uff08\u4f8b\uff1a\u57fc\u7389\u770c\u5bcc\u58eb\u898b\u5e02\uff09\u3001\u5bcc\u58eb\u5c71\u306b\u4f3c\u3066\u3044\u308b\u5c71\uff08\u4e3b\u306b\u6210\u5c64\u706b\u5c71\uff09\u306b\u300c\u5bcc\u58eb\u300d\u306e\u540d\u3092\u51a0\u3059\u308b\u4f8b\uff08\u4fe1\u6fc3\u5bcc\u58eb\u306a\u3069\uff09\u304c\u3042\u308b\u3002\u65e5\u672c\u56fd\u5916\u306b\u79fb\u4f4f\u3057\u305f\u65e5\u672c\u4eba\u305f\u3061\u3082\u3001\u5c45\u4f4f\u5730\u4ed8\u8fd1\u306e\u5c71\u3092\u300c\u25cb\u25cb\u5bcc\u58eb\u300d\u3068\u547c\u3076\u3053\u3068\u304c\u3042\u308b\u3002": {
+        "1a1bc65196e3344619090db7c1c65a9b4e38971c": {
+            "text": "\u5bcc\u58eb\u5c71\u304c\u65e5\u672c\u3092\u4ee3\u8868\u3059\u308b\u540d\u5cf0\u3067\u3042\u308b\u3053\u3068\u304b\u3089\u3001\u65e5\u672c\u306e\u5404\u5730\u306b\u300c\u5bcc\u58eb\u300d\u306e\u4ed8\u304f\u5730\u540d\u304c\u591a\u6570\u5b58\u5728\u3057\u3066\u3044\u308b\u3002\u5bcc\u58eb\u5c71\u9e93\u3067\u306f\u9759\u5ca1\u770c\u306b\u5bcc\u58eb\u5e02\u3084\u5bcc\u58eb\u5bae\u5e02\u3001\u5bcc\u58eb\u90e1\u3001\u5c71\u68a8\u770c\u306b\u5bcc\u58eb\u5409\u7530\u5e02\u3084\u5bcc\u58eb\u6cb3\u53e3\u6e56\u753a\u3001\u5bcc\u58eb\u5ddd\u753a\u304c\u3042\u308b\u3002\u4ed6\u306b\u3088\u304f\u3042\u308b\u3082\u306e\u3068\u3057\u3066\u5bcc\u58eb\u5c71\u304c\u898b\u3048\u308b\u5834\u6240\u3092\u5bcc\u58eb\u898b\u3068\u540d\u3065\u3051\u305f\u308a\uff08\u4f8b\uff1a\u57fc\u7389\u770c\u5bcc\u58eb\u898b\u5e02\uff09\u3001\u5bcc\u58eb\u5c71\u306b\u4f3c\u3066\u3044\u308b\u5c71\uff08\u4e3b\u306b\u6210\u5c64\u706b\u5c71\uff09\u306b\u300c\u5bcc\u58eb\u300d\u306e\u540d\u3092\u51a0\u3059\u308b\u4f8b\uff08\u4fe1\u6fc3\u5bcc\u58eb\u306a\u3069\uff09\u304c\u3042\u308b\u3002\u65e5\u672c\u56fd\u5916\u306b\u79fb\u4f4f\u3057\u305f\u65e5\u672c\u4eba\u305f\u3061\u3082\u3001\u5c45\u4f4f\u5730\u4ed8\u8fd1\u306e\u5c71\u3092\u300c\u25cb\u25cb\u5bcc\u58eb\u300d\u3068\u547c\u3076\u3053\u3068\u304c\u3042\u308b\u3002",
             "tokens": [
                 "\u5bcc\u58eb\u5c71",
                 "\u304c",
@@ -5162,7 +5202,8 @@
                 "PUNCT"
             ]
         },
-        "\u6c5f\u6238\u6642\u4ee3\u306b\u306f\u30011767\u5e74\uff08\u660e\u548c4\u5e74\uff09\u306b\u6cb3\u6751\u5cb7\u96ea\u304c\u7d75\u672c\u300e\u767e\u5bcc\u58eb\u300f\u3092\u51fa\u7248\u3057\u3001\u5bcc\u58eb\u56f3\u306e\u9023\u4f5c\u3068\u3044\u3046\u30b9\u30bf\u30a4\u30eb\u3092\u63d0\u793a\u3057\u305f\u3002\u845b\u98fe\u5317\u658e\u306f\u3001\u6cb3\u6751\u5cb7\u96ea\u306e\u624b\u6cd5\u3092\u63f4\u7528\u3057\u305f\u3001\u5bcc\u58eb\u56f3\u306e\u9023\u4f5c\u7248\u753b\u300e\u51a8\u5dbd\u4e09\u5341\u516d\u666f\u300f\uff081831-34\u5e74\u30fb\u5929\u4fdd2-5\u5e74\u9803\uff09\u3001\u53ca\u3073\u3001\u7d75\u672c\u300e\u5bcc\u5dbd\u767e\u666f\u300f\uff08\u5168\u4e09\u7de8\u3002\u521d\u7de81834\u5e74\u30fb\u5929\u4fdd5\u5e74\uff09\u3092\u51fa\u7248\u3057\u305f\u3002\u524d\u8005\u306b\u304a\u3044\u3066\u3001\u8236\u6765\u9854\u6599\u3092\u6d3b\u304b\u3057\u305f\u85cd\u647a\u306a\u3069\u306e\u6280\u6cd5\u3092\u99c6\u4f7f\u3057\u3066\u5bcc\u58eb\u3092\u63cf\u304d\u3001\u590f\u306e\u8d64\u5bcc\u58eb\u3092\u63cf\u3044\u305f\u300e\u51f1\u98a8\u5feb\u6674\u300f\u3084\u300e\u5c71\u4e0b\u767d\u96e8\u300f\u3001\u8352\u308c\u72c2\u3046\u5927\u6ce2\u3068\u5bcc\u58eb\u3092\u63cf\u3044\u305f\u300e\u795e\u5948\u5ddd\u6c96\u6d6a\u88cf\u300f\u306a\u3069\u304c\u77e5\u3089\u308c\u308b\u3002\u5f8c\u8005\u306f\u58a8\u5358\u8272\u647a\u3067\u3001\u65e7\u6765\u306e\u540d\u6240\u306b\u3053\u3060\u308f\u3089\u305a\u3001\u5929\u5019\u63cf\u5199\u306b\u62d8\u308b\u306a\u3069\u3001\u62bd\u8c61\u6027\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u3002": {
+        "179865134f07d7d7d07d8c4cad7d38eebc0b7e92": {
+            "text": "\u6c5f\u6238\u6642\u4ee3\u306b\u306f\u30011767\u5e74\uff08\u660e\u548c4\u5e74\uff09\u306b\u6cb3\u6751\u5cb7\u96ea\u304c\u7d75\u672c\u300e\u767e\u5bcc\u58eb\u300f\u3092\u51fa\u7248\u3057\u3001\u5bcc\u58eb\u56f3\u306e\u9023\u4f5c\u3068\u3044\u3046\u30b9\u30bf\u30a4\u30eb\u3092\u63d0\u793a\u3057\u305f\u3002\u845b\u98fe\u5317\u658e\u306f\u3001\u6cb3\u6751\u5cb7\u96ea\u306e\u624b\u6cd5\u3092\u63f4\u7528\u3057\u305f\u3001\u5bcc\u58eb\u56f3\u306e\u9023\u4f5c\u7248\u753b\u300e\u51a8\u5dbd\u4e09\u5341\u516d\u666f\u300f\uff081831-34\u5e74\u30fb\u5929\u4fdd2-5\u5e74\u9803\uff09\u3001\u53ca\u3073\u3001\u7d75\u672c\u300e\u5bcc\u5dbd\u767e\u666f\u300f\uff08\u5168\u4e09\u7de8\u3002\u521d\u7de81834\u5e74\u30fb\u5929\u4fdd5\u5e74\uff09\u3092\u51fa\u7248\u3057\u305f\u3002\u524d\u8005\u306b\u304a\u3044\u3066\u3001\u8236\u6765\u9854\u6599\u3092\u6d3b\u304b\u3057\u305f\u85cd\u647a\u306a\u3069\u306e\u6280\u6cd5\u3092\u99c6\u4f7f\u3057\u3066\u5bcc\u58eb\u3092\u63cf\u304d\u3001\u590f\u306e\u8d64\u5bcc\u58eb\u3092\u63cf\u3044\u305f\u300e\u51f1\u98a8\u5feb\u6674\u300f\u3084\u300e\u5c71\u4e0b\u767d\u96e8\u300f\u3001\u8352\u308c\u72c2\u3046\u5927\u6ce2\u3068\u5bcc\u58eb\u3092\u63cf\u3044\u305f\u300e\u795e\u5948\u5ddd\u6c96\u6d6a\u88cf\u300f\u306a\u3069\u304c\u77e5\u3089\u308c\u308b\u3002\u5f8c\u8005\u306f\u58a8\u5358\u8272\u647a\u3067\u3001\u65e7\u6765\u306e\u540d\u6240\u306b\u3053\u3060\u308f\u3089\u305a\u3001\u5929\u5019\u63cf\u5199\u306b\u62d8\u308b\u306a\u3069\u3001\u62bd\u8c61\u6027\u304c\u9ad8\u307e\u3063\u3066\u3044\u308b\u3002",
             "tokens": [
                 "\u6c5f\u6238\u6642\u4ee3",
                 "\u306b",
@@ -5695,7 +5736,8 @@
         }
     },
     "ita": {
-        "Apple vuole comprare una startup del Regno Unito per un miliardo di dollari": {
+        "e3168d879f1ca4ff16eb88fca8f54f0a7bc7b833": {
+            "text": "Apple vuole comprare una startup del Regno Unito per un miliardo di dollari",
             "tokens": [
                 "Apple",
                 "vuole",
@@ -5748,7 +5790,8 @@
                 "NOUN"
             ]
         },
-        "La matrigna Albiera mor\u00ec appena ventottenne nel 1464, quando la famiglia risiedeva gi\u00e0 a Firenze, venendo sepolta in San Biagio. Ser Piero si rispos\u00f2 altre tre volte: una seconda (1464) con la quindicenne Francesca di ser Giuliano Lanfredini, che pure mor\u00ec senza progenie, una terza con Margherita di Francesco di Jacopo di Guglielmo (1500), che gli diede finalmente sei figli; altri sei li ebbe dal quarto e ultimo matrimonio con Lucrezia Cortigiani.": {
+        "34847b7d35aa05314bdc08c1c67311575d85f993": {
+            "text": "La matrigna Albiera mor\u00ec appena ventottenne nel 1464, quando la famiglia risiedeva gi\u00e0 a Firenze, venendo sepolta in San Biagio. Ser Piero si rispos\u00f2 altre tre volte: una seconda (1464) con la quindicenne Francesca di ser Giuliano Lanfredini, che pure mor\u00ec senza progenie, una terza con Margherita di Francesco di Jacopo di Guglielmo (1500), che gli diede finalmente sei figli; altri sei li ebbe dal quarto e ultimo matrimonio con Lucrezia Cortigiani.",
             "tokens": [
                 "La",
                 "matrigna",
@@ -6023,7 +6066,8 @@
                 "PUNCT"
             ]
         },
-        "Il Rinascimento si svilupp\u00f2 in Italia tra la fine del Medioevo e l'inizio dell'Et\u00e0 Moderna in un arco di tempo che va dall'inizio del quindicesimo secolo, fino alla fine del sedicesimo secolo. I suoi limiti cronologici conoscono ampie differenze tra discipline ed aree geografiche.": {
+        "9f5edab99cd45eccfb62d94639037ec9e8ea2b5e": {
+            "text": "Il Rinascimento si svilupp\u00f2 in Italia tra la fine del Medioevo e l'inizio dell'Et\u00e0 Moderna in un arco di tempo che va dall'inizio del quindicesimo secolo, fino alla fine del sedicesimo secolo. I suoi limiti cronologici conoscono ampie differenze tra discipline ed aree geografiche.",
             "tokens": [
                 "Il",
                 "Rinascimento",
@@ -6203,7 +6247,8 @@
                 "PUNCT"
             ]
         },
-        "Vissuto dalla maggior parte dei suoi protagonisti come un'et\u00e0 di cambiamento, matur\u00f2 un nuovo modo di concepire il mondo e se stessi, sviluppando le idee dell'umanesimo, nato in ambito letterario nel quattordicesimo secolo per il rinato interesse degli studi classici, per opera soprattutto di Francesco Petrarca[3], e portandolo a influenzare per la prima volta anche le arti figurative e la mentalit\u00e0 corrente.": {
+        "d2b9acb710bde3e837d92d5fb75a9b32d6aea7c2": {
+            "text": "Vissuto dalla maggior parte dei suoi protagonisti come un'et\u00e0 di cambiamento, matur\u00f2 un nuovo modo di concepire il mondo e se stessi, sviluppando le idee dell'umanesimo, nato in ambito letterario nel quattordicesimo secolo per il rinato interesse degli studi classici, per opera soprattutto di Francesco Petrarca[3], e portandolo a influenzare per la prima volta anche le arti figurative e la mentalit\u00e0 corrente.",
             "tokens": [
                 "Vissuto",
                 "da",
@@ -6451,7 +6496,8 @@
                 "PUNCT"
             ]
         },
-        "\u00abFu tanto raro e universale, che dalla natura per suo miracolo esser produtto dire si puote: la quale non solo della bellezza del corpo, che molto bene gli concedette, volse dotarlo, ma di molte rare virt\u00f9 volse anchora farlo maestro. Assai valse in matematica et in prospettiva non meno, et oper\u00f2 di scultura, et in disegno pass\u00f2 di gran lunga tutti li altri. Hebbe bellissime inventioni, ma non color\u00ec molte cose, perch\u00e9 si dice mai a s\u00e9 medesimo avere satisfatto, et per\u00f2 sono tante rare le opere sue. Fu nel parlare eloquentissimo et raro sonatore di lira [...] et fu valentissimo in tirari et in edifizi d'acque, et altri ghiribizzi, n\u00e9 mai co l'animo suo si quietava, ma sempre con l'ingegno fabricava cose nuove.\u00bb": {
+        "1171d1aaf8bd78e3dfa291f8c7f83e076b2773b8": {
+            "text": "\u00abFu tanto raro e universale, che dalla natura per suo miracolo esser produtto dire si puote: la quale non solo della bellezza del corpo, che molto bene gli concedette, volse dotarlo, ma di molte rare virt\u00f9 volse anchora farlo maestro. Assai valse in matematica et in prospettiva non meno, et oper\u00f2 di scultura, et in disegno pass\u00f2 di gran lunga tutti li altri. Hebbe bellissime inventioni, ma non color\u00ec molte cose, perch\u00e9 si dice mai a s\u00e9 medesimo avere satisfatto, et per\u00f2 sono tante rare le opere sue. Fu nel parlare eloquentissimo et raro sonatore di lira [...] et fu valentissimo in tirari et in edifizi d'acque, et altri ghiribizzi, n\u00e9 mai co l'animo suo si quietava, ma sempre con l'ingegno fabricava cose nuove.\u00bb",
             "tokens": [
                 "\u00ab",
                 "Fu",
@@ -6930,7 +6976,8 @@
         }
     },
     "dut": {
-        "Apple overweegt om voor 1 miljard een U.K. startup te kopen": {
+        "dc391a5dae6f320e675fe45504a821057e51737c": {
+            "text": "Apple overweegt om voor 1 miljard een U.K. startup te kopen",
             "tokens": [
                 "Apple",
                 "overweegt",
@@ -6974,7 +7021,8 @@
                 "VERB"
             ]
         },
-        "In de 17e eeuw (circa 1630 - 1637) ontstond er in de Republiek der Zeven Verenigde Nederlanden rond de tulpenbol een bizarre tulpenmanie, ook wel \"tulpenrage\", \"tulpengekte\", \"tulpomanie\" of \"bollengekte\" genoemd: plotseling werden tulpenbollen speculatieve handelswaar. De gekte dreef de prijzen op tot exorbitante hoogte, zelfs tot de bol zijn gewicht in goud waard was. Er werden tulpen gekweekt in allerlei kleuren en door kunstschilders, zoals Nicolaes van Veerendael, op stillevens uitgebeeld. In deze periode zijn ook veel tulpentekeningen gemaakt.": {
+        "e7746e44ca98af56b4e6db03bc89fe6ace21ef1c": {
+            "text": "In de 17e eeuw (circa 1630 - 1637) ontstond er in de Republiek der Zeven Verenigde Nederlanden rond de tulpenbol een bizarre tulpenmanie, ook wel \"tulpenrage\", \"tulpengekte\", \"tulpomanie\" of \"bollengekte\" genoemd: plotseling werden tulpenbollen speculatieve handelswaar. De gekte dreef de prijzen op tot exorbitante hoogte, zelfs tot de bol zijn gewicht in goud waard was. Er werden tulpen gekweekt in allerlei kleuren en door kunstschilders, zoals Nicolaes van Veerendael, op stillevens uitgebeeld. In deze periode zijn ook veel tulpentekeningen gemaakt.",
             "tokens": [
                 "In",
                 "de",
@@ -7292,7 +7340,8 @@
                 "PUNCT"
             ]
         },
-        "De aankoopcontracten, genoteerd op briefjes, werden voor grof geld doorverkocht. De prijs die uiteindelijk voor een bol betaald moest worden, werd doorgaans berekend naar het gewicht bij het rooien. Dit was de 'azenhandel'; een aas was een onder goudhandelaars gebruikte gewichtsmaat (1 aas = 0,048 gram). Deze handel was illegaal; de Staten van Holland verboden de verkoop van zaken die men zelf niet bezat. Naast de azenhandel in de colleges vonden ook openbare veilingen plaats van 'pondsgoed', waardeloze tulpen zonder fraaie kleurpatronen, die per pond verkocht werden aan argeloze kopers, voor extreme geldbedragen.": {
+        "407a99659d97f5dc2a319d407878a90ea5dabfc8": {
+            "text": "De aankoopcontracten, genoteerd op briefjes, werden voor grof geld doorverkocht. De prijs die uiteindelijk voor een bol betaald moest worden, werd doorgaans berekend naar het gewicht bij het rooien. Dit was de 'azenhandel'; een aas was een onder goudhandelaars gebruikte gewichtsmaat (1 aas = 0,048 gram). Deze handel was illegaal; de Staten van Holland verboden de verkoop van zaken die men zelf niet bezat. Naast de azenhandel in de colleges vonden ook openbare veilingen plaats van 'pondsgoed', waardeloze tulpen zonder fraaie kleurpatronen, die per pond verkocht werden aan argeloze kopers, voor extreme geldbedragen.",
             "tokens": [
                 "De",
                 "aankoopcontracten",
@@ -7643,7 +7692,8 @@
                 "PUNCT"
             ]
         },
-        "Hij las veel in het Frans, onder meer Les temps difficiles (Parijs, 1869) door Charles Dickens, L'Imitation de J\u00e9sus Christ van Thomas a Kempis, William Shakespeare (Parijs, 1864) door Victor Hugo; in het Engels las hij The Pilgrim's Progress (Londen, 1877) door John Bunyan en Uncle Tom's Cabin (Londen, 1852) door Harriet Beecher Stowe. Dergelijke lectuur toont duidelijk aan dat hij intellectueel op een hoog peil stond.": {
+        "1cfc625f7475a0df6c769ed70dde5cc92c5ba8a4": {
+            "text": "Hij las veel in het Frans, onder meer Les temps difficiles (Parijs, 1869) door Charles Dickens, L'Imitation de J\u00e9sus Christ van Thomas a Kempis, William Shakespeare (Parijs, 1864) door Victor Hugo; in het Engels las hij The Pilgrim's Progress (Londen, 1877) door John Bunyan en Uncle Tom's Cabin (Londen, 1852) door Harriet Beecher Stowe. Dergelijke lectuur toont duidelijk aan dat hij intellectueel op een hoog peil stond.",
             "tokens": [
                 "Hij",
                 "las",
@@ -7910,7 +7960,8 @@
                 "PUNCT"
             ]
         },
-        "Behalve het grote aantal werken dat Johanna van Gogh bezat, hadden de volgende familieleden van Vincent werk in hun bezit: E.H. du Quesne-van Gogh tien stuks, Willemien van Gogh zeven stuks, Cornelia van Gogh-Carbentus \u00e9\u00e9n, Anna van Gogh-Carbentus drie en Andries Bonger (broer van Johanna) vijf stuks.": {
+        "a7b2bcf85f5f75b5368866fc4710b94c881bfa88": {
+            "text": "Behalve het grote aantal werken dat Johanna van Gogh bezat, hadden de volgende familieleden van Vincent werk in hun bezit: E.H. du Quesne-van Gogh tien stuks, Willemien van Gogh zeven stuks, Cornelia van Gogh-Carbentus \u00e9\u00e9n, Anna van Gogh-Carbentus drie en Andries Bonger (broer van Johanna) vijf stuks.",
             "tokens": [
                 "Behalve",
                 "het",
@@ -8089,7 +8140,8 @@
         }
     },
     "prt": {
-        "Apple est\u00e1 querendo comprar uma startup do Reino Unido por 100 milh\u00f5es de d\u00f3lares.": {
+        "4e83a33f3c603960c53ef9e87374e2f508a09278": {
+            "text": "Apple est\u00e1 querendo comprar uma startup do Reino Unido por 100 milh\u00f5es de d\u00f3lares.",
             "tokens": [
                 "Apple",
                 "est\u00e1",
@@ -8148,7 +8200,8 @@
                 "PUNCT"
             ]
         },
-        "Fern\u00e3o de Magalh\u00e3es(Pa\u00e7o Vedro de Magalh\u00e3es, Ponte da Barca, Portugal, Primavera de 1480 \u2014 Mactan, Cebu, Visayas Centrais, Filipinas, 27 de abril de 1521) foi um navegador portugu\u00eas que se notabilizou por ter encabe\u00e7ado a primeira viagem de circum-navega\u00e7\u00e3o ao globo de 1519 at\u00e9 1522, ao servi\u00e7o da Coroa de Castela. A expedi\u00e7\u00e3o espanhola Magalh\u00e3es-Elcano.": {
+        "78ad06ac56039b930cf380f21f059c5e8bcf38dc": {
+            "text": "Fern\u00e3o de Magalh\u00e3es(Pa\u00e7o Vedro de Magalh\u00e3es, Ponte da Barca, Portugal, Primavera de 1480 \u2014 Mactan, Cebu, Visayas Centrais, Filipinas, 27 de abril de 1521) foi um navegador portugu\u00eas que se notabilizou por ter encabe\u00e7ado a primeira viagem de circum-navega\u00e7\u00e3o ao globo de 1519 at\u00e9 1522, ao servi\u00e7o da Coroa de Castela. A expedi\u00e7\u00e3o espanhola Magalh\u00e3es-Elcano.",
             "tokens": [
                 "Fern\u00e3o",
                 "de",
@@ -8376,7 +8429,8 @@
                 "PUNCT"
             ]
         },
-        "Seu pai, Rui de Magalh\u00e3es, foi Cavaleiro Fidalgo da Casa de D. Afonso, 1.\u00ba Conde de Faro, 2.\u00ba Conde de Odemira jure uxoris, 5.\u00ba Senhor de Mort\u00e1gua jure uxoris, Senhor de Aveiro e Alcaide-Mor do Castelo de Estremoz. Rui de Magalh\u00e3es ter\u00e1 sido Alcaide-Mor do Castelo de Aveiro onde est\u00e1 documentado em 1486. Entre junho de 1472 e junho de 1488 est\u00e1 documentado no Porto onde exerce os cargos de Juiz Ordin\u00e1rio, Procurador da C\u00e2mara e Vereador.": {
+        "44fe47848982774c2893e1b2ddb5cb079971cf0c": {
+            "text": "Seu pai, Rui de Magalh\u00e3es, foi Cavaleiro Fidalgo da Casa de D. Afonso, 1.\u00ba Conde de Faro, 2.\u00ba Conde de Odemira jure uxoris, 5.\u00ba Senhor de Mort\u00e1gua jure uxoris, Senhor de Aveiro e Alcaide-Mor do Castelo de Estremoz. Rui de Magalh\u00e3es ter\u00e1 sido Alcaide-Mor do Castelo de Aveiro onde est\u00e1 documentado em 1486. Entre junho de 1472 e junho de 1488 est\u00e1 documentado no Porto onde exerce os cargos de Juiz Ordin\u00e1rio, Procurador da C\u00e2mara e Vereador.",
             "tokens": [
                 "Seu",
                 "pai",
@@ -8685,7 +8739,8 @@
                 "PUNCT"
             ]
         },
-        " \"(...) Vede tamb\u00e9m tantas ilhas, situadas no meio desse grande pego do oceano, as quais descobriram e povoaram, esses reinos de Angola e de Congo, ilhas do Cabo Verde e de S. Tom\u00e9, esta grande terra do Brasil; de modo que aos nossos portugueses se pode, com raz\u00e3o, atribuir (nas muitas conquistas que fizeram por mar e terra) o verdadeiro nome de H\u00e9rcules e de Argonautas.\" ": {
+        "ea2ccaf110182c09796ad7ede8a78c2c77df8cba": {
+            "text": " \"(...) Vede tamb\u00e9m tantas ilhas, situadas no meio desse grande pego do oceano, as quais descobriram e povoaram, esses reinos de Angola e de Congo, ilhas do Cabo Verde e de S. Tom\u00e9, esta grande terra do Brasil; de modo que aos nossos portugueses se pode, com raz\u00e3o, atribuir (nas muitas conquistas que fizeram por mar e terra) o verdadeiro nome de H\u00e9rcules e de Argonautas.\" ",
             "tokens": [
                 "\"",
                 "(",
@@ -8962,7 +9017,8 @@
                 "PUNCT"
             ]
         },
-        " A import\u00e2ncia econ\u00f3mica do Brasil para Portugal, teria levado D. Jo\u00e3o IV a referir-se ao Brasil como a \"vaca leiteira do Reino\".": {
+        "ed62ac8a58dc13d90bdda330b8db7904412ed98a": {
+            "text": " A import\u00e2ncia econ\u00f3mica do Brasil para Portugal, teria levado D. Jo\u00e3o IV a referir-se ao Brasil como a \"vaca leiteira do Reino\".",
             "tokens": [
                 "A",
                 "import\u00e2ncia",
@@ -9062,7 +9118,8 @@
         }
     },
     "ara": {
-        "\u0643\u0627\u0646 \u0633\u064a\u063a\u0645\u0648\u0646\u062f \u0641\u0631\u0648\u064a\u062f \u0637\u0628\u064a\u0628 \u0623\u0639\u0635\u0627\u0628 \u0646\u0645\u0633\u0627\u0648\u064a\u064b\u0627 \u0648\u0645\u0624\u0633\u0633 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0641\u0633\u064a \u060c \u0648\u0647\u0648 \u0623\u0633\u0644\u0648\u0628 \u0633\u0631\u064a\u0631\u064a \u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0646\u0641\u0633\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u062d\u0648\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0645\u0631\u064a\u0636 \u0648\u0627\u0644\u0645\u062d\u0644\u0644 \u0627\u0644\u0646\u0641\u0633\u064a. \u0648\u0644\u062f \u0641\u0631\u0648\u064a\u062f \u0644\u0648\u0627\u0644\u062f\u064a\u0646 \u064a\u0647\u0648\u062f\u064a\u064a\u0646 \u0645\u0646 \u063a\u0627\u0644\u064a\u0633\u064a\u0627 \u0641\u064a \u0628\u0644\u062f\u0629 \u0641\u0631\u0627\u064a\u0628\u0631\u063a \u0627\u0644\u0645\u0648\u0631\u0627\u0641\u064a\u0627 \u0641\u064a \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064a\u0629. \u062a\u0623\u0647\u0644 \u0643\u0637\u0628\u064a\u0628 \u0641\u064a \u0627\u0644\u0637\u0628 \u0639\u0627\u0645 1881 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0641\u064a\u064a\u0646\u0627. \u0639\u0627\u0634 \u0641\u0631\u0648\u064a\u062f \u0648\u0639\u0645\u0644 \u0641\u064a \u0641\u064a\u064a\u0646\u0627 \u060c \u0628\u0639\u062f \u0623\u0646 \u0623\u0633\u0633 \u0645\u0645\u0627\u0631\u0633\u062a\u0647 \u0627\u0644\u0633\u0631\u064a\u0631\u064a\u0629 \u0647\u0646\u0627\u0643 \u0639\u0627\u0645 1886. \u0641\u064a \u0639\u0627\u0645 1938 \u060c \u063a\u0627\u062f\u0631 \u0641\u0631\u0648\u064a\u062f \u0627\u0644\u0646\u0645\u0633\u0627 \u0647\u0631\u0628\u064b\u0627 \u0645\u0646 \u0627\u0644\u0627\u0636\u0637\u0647\u0627\u062f \u0627\u0644\u0646\u0627\u0632\u064a. \u062a\u0648\u0641\u064a \u0641\u064a \u0627\u0644\u0645\u0646\u0641\u0649 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0639\u0627\u0645 1939.": {
+        "ff253e24949e856613024882010f2fcb7004ee3d": {
+            "text": "\u0643\u0627\u0646 \u0633\u064a\u063a\u0645\u0648\u0646\u062f \u0641\u0631\u0648\u064a\u062f \u0637\u0628\u064a\u0628 \u0623\u0639\u0635\u0627\u0628 \u0646\u0645\u0633\u0627\u0648\u064a\u064b\u0627 \u0648\u0645\u0624\u0633\u0633 \u0627\u0644\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0641\u0633\u064a \u060c \u0648\u0647\u0648 \u0623\u0633\u0644\u0648\u0628 \u0633\u0631\u064a\u0631\u064a \u0644\u0639\u0644\u0627\u062c \u0627\u0644\u0623\u0645\u0631\u0627\u0636 \u0627\u0644\u0646\u0641\u0633\u064a\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u062d\u0648\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0645\u0631\u064a\u0636 \u0648\u0627\u0644\u0645\u062d\u0644\u0644 \u0627\u0644\u0646\u0641\u0633\u064a. \u0648\u0644\u062f \u0641\u0631\u0648\u064a\u062f \u0644\u0648\u0627\u0644\u062f\u064a\u0646 \u064a\u0647\u0648\u062f\u064a\u064a\u0646 \u0645\u0646 \u063a\u0627\u0644\u064a\u0633\u064a\u0627 \u0641\u064a \u0628\u0644\u062f\u0629 \u0641\u0631\u0627\u064a\u0628\u0631\u063a \u0627\u0644\u0645\u0648\u0631\u0627\u0641\u064a\u0627 \u0641\u064a \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629 \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064a\u0629. \u062a\u0623\u0647\u0644 \u0643\u0637\u0628\u064a\u0628 \u0641\u064a \u0627\u0644\u0637\u0628 \u0639\u0627\u0645 1881 \u0641\u064a \u062c\u0627\u0645\u0639\u0629 \u0641\u064a\u064a\u0646\u0627. \u0639\u0627\u0634 \u0641\u0631\u0648\u064a\u062f \u0648\u0639\u0645\u0644 \u0641\u064a \u0641\u064a\u064a\u0646\u0627 \u060c \u0628\u0639\u062f \u0623\u0646 \u0623\u0633\u0633 \u0645\u0645\u0627\u0631\u0633\u062a\u0647 \u0627\u0644\u0633\u0631\u064a\u0631\u064a\u0629 \u0647\u0646\u0627\u0643 \u0639\u0627\u0645 1886. \u0641\u064a \u0639\u0627\u0645 1938 \u060c \u063a\u0627\u062f\u0631 \u0641\u0631\u0648\u064a\u062f \u0627\u0644\u0646\u0645\u0633\u0627 \u0647\u0631\u0628\u064b\u0627 \u0645\u0646 \u0627\u0644\u0627\u0636\u0637\u0647\u0627\u062f \u0627\u0644\u0646\u0627\u0632\u064a. \u062a\u0648\u0641\u064a \u0641\u064a \u0627\u0644\u0645\u0646\u0641\u0649 \u0641\u064a \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0639\u0627\u0645 1939.",
             "tokens": [
                 "\u0643\u0627\u0646",
                 "\u0633\u064a\u063a\u0645\u0648\u0646\u062f",
@@ -9348,7 +9405,8 @@
                 "PUNCT"
             ]
         },
-        "\u0628\u0627\u0631\u0627\u0643 \u062d\u0633\u064a\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u0627\u0644\u062b\u0627\u0646\u064a \u0633\u064a\u0627\u0633\u064a \u0648\u0645\u062d\u0627\u0645\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u0634\u063a\u0644 \u0645\u0646\u0635\u0628 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0631\u0627\u0628\u0639 \u0648\u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646 \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0645\u0646 \u0639\u0627\u0645 2009 \u0625\u0644\u0649 \u0639\u0627\u0645 2017. \u0643\u0627\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u0639\u0636\u0648\u064b\u0627 \u0641\u064a \u0627\u0644\u062d\u0632\u0628 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a \u060c \u0648\u0643\u0627\u0646 \u0623\u0648\u0644 \u0631\u0626\u064a\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0623\u0635\u0644 \u0623\u0641\u0631\u064a\u0642\u064a \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0634\u063a\u0644 \u0633\u0627\u0628\u0642\u064b\u0627 \u0645\u0646\u0635\u0628 \u0639\u0636\u0648 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0639\u0646 \u0648\u0644\u0627\u064a\u0629 \u0625\u0644\u064a\u0646\u0648\u064a \u0645\u0646 \u0639\u0627\u0645 2005 \u0625\u0644\u0649 \u0639\u0627\u0645 2008 \u0648\u0639\u0636\u0648 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0639\u0646 \u0648\u0644\u0627\u064a\u0629 \u0625\u0644\u064a\u0646\u0648\u064a \u0645\u0646 \u0639\u0627\u0645 1997 \u0625\u0644\u0649 \u0639\u0627\u0645 2004. ": {
+        "0f0b258f71a2946a69950a1f225acbcee3a15063": {
+            "text": "\u0628\u0627\u0631\u0627\u0643 \u062d\u0633\u064a\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u0627\u0644\u062b\u0627\u0646\u064a \u0633\u064a\u0627\u0633\u064a \u0648\u0645\u062d\u0627\u0645\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u0634\u063a\u0644 \u0645\u0646\u0635\u0628 \u0627\u0644\u0631\u0626\u064a\u0633 \u0627\u0644\u0631\u0627\u0628\u0639 \u0648\u0627\u0644\u0623\u0631\u0628\u0639\u064a\u0646 \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0645\u0646 \u0639\u0627\u0645 2009 \u0625\u0644\u0649 \u0639\u0627\u0645 2017. \u0643\u0627\u0646 \u0623\u0648\u0628\u0627\u0645\u0627 \u0639\u0636\u0648\u064b\u0627 \u0641\u064a \u0627\u0644\u062d\u0632\u0628 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a \u060c \u0648\u0643\u0627\u0646 \u0623\u0648\u0644 \u0631\u0626\u064a\u0633 \u0623\u0645\u0631\u064a\u0643\u064a \u0645\u0646 \u0623\u0635\u0644 \u0623\u0641\u0631\u064a\u0642\u064a \u0644\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0634\u063a\u0644 \u0633\u0627\u0628\u0642\u064b\u0627 \u0645\u0646\u0635\u0628 \u0639\u0636\u0648 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a \u0639\u0646 \u0648\u0644\u0627\u064a\u0629 \u0625\u0644\u064a\u0646\u0648\u064a \u0645\u0646 \u0639\u0627\u0645 2005 \u0625\u0644\u0649 \u0639\u0627\u0645 2008 \u0648\u0639\u0636\u0648 \u0645\u062c\u0644\u0633 \u0627\u0644\u0634\u064a\u0648\u062e \u0639\u0646 \u0648\u0644\u0627\u064a\u0629 \u0625\u0644\u064a\u0646\u0648\u064a \u0645\u0646 \u0639\u0627\u0645 1997 \u0625\u0644\u0649 \u0639\u0627\u0645 2004. ",
             "tokens": [
                 "\u0628\u0627\u0631\u0627\u0643",
                 "\u062d\u0633\u064a\u0646",
@@ -9577,7 +9635,8 @@
                 "PUNCT"
             ]
         },
-        "\u0645\u0642\u062a\u0644 \u0639\u0636\u0648 \u0645\u0646 \u0647\u064a\u0626\u0629 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u062e\u0644\u0627\u0644 \u0627\u0642\u062a\u062d\u0627\u0645 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0627\u0645\u064a\u0631\u0643\u064a\u0629 \u0645\u0646\u0632\u0644\u0647 \u0641\u064a \u0628\u063a\u062f\u0627\u062f (25/12/2004) \u0628\u063a\u062f\u0627\u062f (\u0627\u0641 \u0628) \u0642\u062a\u0644 \u0639\u0636\u0648 \u0645\u0646 \u0647\u064a\u0626\u0629 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u0627\u0628\u0631\u0632 \u0647\u064a\u0626\u0629 \u062f\u064a\u0646\u064a\u0629 \u0644\u0644\u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0633\u0646\u064a\u0629 \u062e\u0644\u0627\u0644 \u0627\u0642\u062a\u062d\u0627\u0645 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0627\u0645\u064a\u0631\u0643\u064a\u0629 \u0627\u0644\u062c\u0645\u0639\u0629 \u0645\u0646\u0632\u0644\u0647 \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u0643\u0645\u0627 \u0627\u0643\u062f\u062a \u0627\u0644\u0647\u064a\u0626\u0629 \u0641\u064a \u0628\u064a\u0627\u0646 \u0627\u0635\u062f\u0631\u062a\u0647 \u0627\u0644\u0633\u0628\u062a.": {
+        "0595473cd589368cd7f4b4457bffc594219c3be3": {
+            "text": "\u0645\u0642\u062a\u0644 \u0639\u0636\u0648 \u0645\u0646 \u0647\u064a\u0626\u0629 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u062e\u0644\u0627\u0644 \u0627\u0642\u062a\u062d\u0627\u0645 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0627\u0645\u064a\u0631\u0643\u064a\u0629 \u0645\u0646\u0632\u0644\u0647 \u0641\u064a \u0628\u063a\u062f\u0627\u062f (25/12/2004) \u0628\u063a\u062f\u0627\u062f (\u0627\u0641 \u0628) \u0642\u062a\u0644 \u0639\u0636\u0648 \u0645\u0646 \u0647\u064a\u0626\u0629 \u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u0627\u0628\u0631\u0632 \u0647\u064a\u0626\u0629 \u062f\u064a\u0646\u064a\u0629 \u0644\u0644\u0637\u0627\u0626\u0641\u0629 \u0627\u0644\u0633\u0646\u064a\u0629 \u062e\u0644\u0627\u0644 \u0627\u0642\u062a\u062d\u0627\u0645 \u0627\u0644\u0642\u0648\u0627\u062a \u0627\u0644\u0627\u0645\u064a\u0631\u0643\u064a\u0629 \u0627\u0644\u062c\u0645\u0639\u0629 \u0645\u0646\u0632\u0644\u0647 \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u0643\u0645\u0627 \u0627\u0643\u062f\u062a \u0627\u0644\u0647\u064a\u0626\u0629 \u0641\u064a \u0628\u064a\u0627\u0646 \u0627\u0635\u062f\u0631\u062a\u0647 \u0627\u0644\u0633\u0628\u062a.",
             "tokens": [
                 "\u0645\u0642\u062a\u0644",
                 "\u0639\u0636\u0648",
@@ -9753,7 +9812,8 @@
                 "PUNCT"
             ]
         },
-        "\u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0639\u0638\u064a\u0645 \u0641\u064a \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u060c \u062d\u062a\u0649 \u0644\u0648 \u0643\u0627\u0646\u062a \u0627\u0644\u0625\u0646\u062c\u0627\u0632\u0627\u062a \u0627\u0644\u0645\u062c\u064a\u062f\u0629 \u0644\u0644\u062d\u0636\u0627\u0631\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u0648\u0631\u0648\u062b\u0629 \u0641\u064a \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649 \u060c \u0641\u0642\u062f \u0623\u0631\u0633\u0649 \u0623\u0633\u0627\u0633\u064b\u0627 \u0645\u062a\u064a\u0646\u064b\u0627 \u0644\u062a\u0637\u0648\u0631 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629. \u0643\u0627\u0646 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0648\u0646 \u0642\u0627\u062f\u0631\u064a\u0646 \u0639\u0644\u0649 \u0641\u0647\u0645 \u0623\u0641\u0643\u0627\u0631 \u0623\u0633\u0644\u0627\u0641\u0647\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u0631\u062c\u0645\u0629 \u0647\u0630\u0647 \u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u060c \u062b\u0645 \u0628\u062f\u0623\u0648\u0627 \u0646\u0647\u0636\u062a\u0647\u0645. \u064a\u0645\u0643\u0646 \u0627\u0644\u0642\u0648\u0644 \u0623\u0646\u0647 \u0628\u062f\u0648\u0646 \u0627\u0644\u0639\u0631\u0628 \u0648\u0627\u0644\u0628\u064a\u0632\u0646\u0637\u064a\u064a\u0646 \u0627\u0644\u0630\u064a\u0646 \u064a\u0631\u062b\u0648\u0646 \u0648\u064a\u062d\u0627\u0641\u0638\u0648\u0646 \u0639\u0644\u0649 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u060c \u0641\u0625\u0646 \u0639\u0635\u0631 \u0627\u0644\u0646\u0647\u0636\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u0644\u0627 \u0623\u0633\u0627\u0633 \u0644\u0647 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642.": {
+        "d44ed3b6293dd06dcf3c2a75e53750e5348d0e7d": {
+            "text": "\u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 \u0627\u0644\u0639\u0638\u064a\u0645 \u0641\u064a \u062a\u0627\u0631\u064a\u062e \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u060c \u062d\u062a\u0649 \u0644\u0648 \u0643\u0627\u0646\u062a \u0627\u0644\u0625\u0646\u062c\u0627\u0632\u0627\u062a \u0627\u0644\u0645\u062c\u064a\u062f\u0629 \u0644\u0644\u062d\u0636\u0627\u0631\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629 \u0627\u0644\u0628\u0634\u0631\u064a\u0629 \u0645\u0648\u0631\u0648\u062b\u0629 \u0641\u064a \u0627\u0644\u0639\u0635\u0648\u0631 \u0627\u0644\u0648\u0633\u0637\u0649 \u060c \u0641\u0642\u062f \u0623\u0631\u0633\u0649 \u0623\u0633\u0627\u0633\u064b\u0627 \u0645\u062a\u064a\u0646\u064b\u0627 \u0644\u062a\u0637\u0648\u0631 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629. \u0643\u0627\u0646 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064a\u0648\u0646 \u0642\u0627\u062f\u0631\u064a\u0646 \u0639\u0644\u0649 \u0641\u0647\u0645 \u0623\u0641\u0643\u0627\u0631 \u0623\u0633\u0644\u0627\u0641\u0647\u0645 \u0645\u0646 \u062e\u0644\u0627\u0644 \u062a\u0631\u062c\u0645\u0629 \u0647\u0630\u0647 \u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u060c \u062b\u0645 \u0628\u062f\u0623\u0648\u0627 \u0646\u0647\u0636\u062a\u0647\u0645. \u064a\u0645\u0643\u0646 \u0627\u0644\u0642\u0648\u0644 \u0623\u0646\u0647 \u0628\u062f\u0648\u0646 \u0627\u0644\u0639\u0631\u0628 \u0648\u0627\u0644\u0628\u064a\u0632\u0646\u0637\u064a\u064a\u0646 \u0627\u0644\u0630\u064a\u0646 \u064a\u0631\u062b\u0648\u0646 \u0648\u064a\u062d\u0627\u0641\u0638\u0648\u0646 \u0639\u0644\u0649 \u0627\u0644\u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u060c \u0641\u0625\u0646 \u0639\u0635\u0631 \u0627\u0644\u0646\u0647\u0636\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629 \u0644\u0627 \u0623\u0633\u0627\u0633 \u0644\u0647 \u0639\u0644\u0649 \u0627\u0644\u0625\u0637\u0644\u0627\u0642.",
             "tokens": [
                 "\u0647\u0630\u0627",
                 "\u0627\u0644\u0645\u0634\u0631\u0648\u0639",
@@ -10009,7 +10069,8 @@
                 "PUNCT"
             ]
         },
-        "\u0641\u064a \u0628\u062f\u0627\u064a\u0629 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u060c \u0634\u062c\u0639\u062a \u0627\u0644\u062e\u0644\u0627\u0641\u0629 \u0627\u0644\u0639\u0628\u0627\u0633\u064a\u0629 \u0648\u0646\u0638\u0645\u062a \u0623\u0646\u0634\u0637\u0629 \u062a\u0631\u062c\u0645\u0629 \u0648\u0627\u0633\u0639\u0629 \u0627\u0644\u0646\u0637\u0627\u0642 \u0644\u0644\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629. \u064a\u0648\u062c\u062f \u0641\u064a \"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062d\u0643\u0645\u0629\" \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u062a\u0631\u062c\u0645\u064a\u0646 \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u064a\u0646. \u064a\u0642\u0627\u0644 \u0625\u0646 \u0623\u062c\u0631 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u064a\u062f\u0641\u0639 \u0628\u0627\u0644\u0630\u0647\u0628 \u0645\u0633\u0627\u0648\u064d \u0644\u0648\u0632\u0646 \u0627\u0644\u062a\u0631\u062c\u0645\u0629. \u062c\u0645\u0639 \u0623\u0641\u0644\u0627\u0637\u0648\u0646 \u0648\u0623\u0631\u0633\u0637\u0648 \u0648\u0625\u0642\u0644\u064a\u062f\u0633 \u0648\u0628\u0637\u0644\u064a\u0645\u0648\u0633 \u0648\u062c\u0627\u0644\u064a\u0646\u0648\u0633 \u0648\u0623\u0628\u0642\u0631\u0627\u0637 \u0648\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u064a\u0646 \u0648\u0627\u0644\u0647\u0646\u0648\u062f \u0648\u0627\u0644\u0641\u0631\u0633 \u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0637\u0628.": {
+        "b93e00e6c13472f06f8c050b113894cf29a9be6b": {
+            "text": "\u0641\u064a \u0628\u062f\u0627\u064a\u0629 \u0627\u0644\u0642\u0631\u0646 \u0627\u0644\u062a\u0627\u0633\u0639 \u060c \u0634\u062c\u0639\u062a \u0627\u0644\u062e\u0644\u0627\u0641\u0629 \u0627\u0644\u0639\u0628\u0627\u0633\u064a\u0629 \u0648\u0646\u0638\u0645\u062a \u0623\u0646\u0634\u0637\u0629 \u062a\u0631\u062c\u0645\u0629 \u0648\u0627\u0633\u0639\u0629 \u0627\u0644\u0646\u0637\u0627\u0642 \u0644\u0644\u0641\u0644\u0633\u0641\u0629 \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u0629 \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0629. \u064a\u0648\u062c\u062f \u0641\u064a \"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u062d\u0643\u0645\u0629\" \u0641\u064a \u0628\u063a\u062f\u0627\u062f \u0639\u062f\u062f \u0643\u0628\u064a\u0631 \u0645\u0646 \u0627\u0644\u0645\u062a\u0631\u062c\u0645\u064a\u0646 \u0627\u0644\u0645\u062a\u062e\u0635\u0635\u064a\u0646. \u064a\u0642\u0627\u0644 \u0625\u0646 \u0623\u062c\u0631 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u064a\u062f\u0641\u0639 \u0628\u0627\u0644\u0630\u0647\u0628 \u0645\u0633\u0627\u0648\u064d \u0644\u0648\u0632\u0646 \u0627\u0644\u062a\u0631\u062c\u0645\u0629. \u062c\u0645\u0639 \u0623\u0641\u0644\u0627\u0637\u0648\u0646 \u0648\u0623\u0631\u0633\u0637\u0648 \u0648\u0625\u0642\u0644\u064a\u062f\u0633 \u0648\u0628\u0637\u0644\u064a\u0645\u0648\u0633 \u0648\u062c\u0627\u0644\u064a\u0646\u0648\u0633 \u0648\u0623\u0628\u0642\u0631\u0627\u0637 \u0648\u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u064a\u0648\u0646\u0627\u0646\u064a\u064a\u0646 \u0648\u0627\u0644\u0647\u0646\u0648\u062f \u0648\u0627\u0644\u0641\u0631\u0633 \u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0643\u0644\u0627\u0633\u064a\u0643\u064a\u0627\u062a \u0641\u064a \u0627\u0644\u0641\u0644\u0633\u0641\u0629 \u0648\u0627\u0644\u0639\u0644\u0648\u0645 \u0648\u0627\u0644\u0637\u0628.",
             "tokens": [
                 "\u0641\u064a",
                 "\u0628\u062f\u0627\u064a\u0629",
@@ -10214,7 +10275,8 @@
         }
     },
     "rus": {
-        "Apple \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0430 \u0438\u0437 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430 \u0437\u0430 $1 \u043c\u043b\u0440\u0434.": {
+        "7b1f6fd97fc1f48bc4963d58e736f033af31a517": {
+            "text": "Apple \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043a\u0443\u043f\u043a\u0438 \u0441\u0442\u0430\u0440\u0442\u0430\u043f\u0430 \u0438\u0437 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430 \u0437\u0430 $1 \u043c\u043b\u0440\u0434.",
             "tokens": [
                 "Apple",
                 "\u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442",
@@ -10264,7 +10326,8 @@
                 "PUNCT"
             ]
         },
-        "\u0411\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u044e\u0442 \u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0443\u044e \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f.": {
+        "bbbf03eaf871be05919453ddef6cfe93ce35c500": {
+            "text": "\u0411\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0435 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u044e\u0442 \u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0443\u044e \u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u044c \u043d\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044f.",
             "tokens": [
                 "\u0411\u0435\u0441\u043f\u0438\u043b\u043e\u0442\u043d\u044b\u0435",
                 "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438",
@@ -10299,7 +10362,8 @@
                 "PUNCT"
             ]
         },
-        "\u0412 \u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043f\u0440\u0435\u0442\u0430 \u0440\u043e\u0431\u043e\u0442\u043e\u0432-\u043a\u0443\u0440\u044c\u0435\u0440\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u043f\u043e \u0442\u0440\u043e\u0442\u0443\u0430\u0440\u0443.": {
+        "7f2240d47a4275d1c39e59c245883632d0b7ea29": {
+            "text": "\u0412 \u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e \u0440\u0430\u0441\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0435\u0442\u0441\u044f \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u0437\u0430\u043f\u0440\u0435\u0442\u0430 \u0440\u043e\u0431\u043e\u0442\u043e\u0432-\u043a\u0443\u0440\u044c\u0435\u0440\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0442\u0441\u044f \u043f\u043e \u0442\u0440\u043e\u0442\u0443\u0430\u0440\u0443.",
             "tokens": [
                 "\u0412",
                 "\u0421\u0430\u043d-\u0424\u0440\u0430\u043d\u0446\u0438\u0441\u043a\u043e",
@@ -10352,7 +10416,8 @@
                 "PUNCT"
             ]
         },
-        "\u041b\u043e\u043d\u0434\u043e\u043d \u2014 \u044d\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0433\u043e\u0440\u043e\u0434 \u0432 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u043c \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0435.": {
+        "c1daf969c2efb36d61b207c04a777add0a8820cf": {
+            "text": "\u041b\u043e\u043d\u0434\u043e\u043d \u2014 \u044d\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0433\u043e\u0440\u043e\u0434 \u0432 \u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u043c \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0435.",
             "tokens": [
                 "\u041b\u043e\u043d\u0434\u043e\u043d",
                 "\u2014",
@@ -10390,7 +10455,8 @@
                 "PUNCT"
             ]
         },
-        "\u0414\u0430, \u043d\u0435\u0442, \u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435!": {
+        "039054fe9b264c3a79e8abeb00b1fd555ca4f0a6": {
+            "text": "\u0414\u0430, \u043d\u0435\u0442, \u043d\u0430\u0432\u0435\u0440\u043d\u043e\u0435!",
             "tokens": [
                 "\u0414\u0430",
                 ",",
