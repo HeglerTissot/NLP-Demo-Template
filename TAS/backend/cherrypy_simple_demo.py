@@ -125,7 +125,7 @@ class Cache:
   def save(self, cache_dic, name):
 
     json_dic = json.dumps(cache_dic, indent=4)
-    with open('cache_'+ name + '_'+ datetime.now().strftime('%Y-%m-%d-%H-%M-%S') + '.json', 'w') as json_file:
+    with open('cache/cache_'+ name + '_'+ datetime.now().strftime('%Y-%m-%d-%H-%M-%S') + '.json', 'w') as json_file:
         json_file.write(json_dic)      
 
 
